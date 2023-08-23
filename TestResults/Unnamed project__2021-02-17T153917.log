@@ -1,0 +1,195 @@
+﻿2021-02-17T15:39:17.0975475+03:30;VSTestExecutionThread;Info;SpecFlow+Runner execution started
+2021-02-17T15:39:17.0977157+03:30;VSTestExecutionThread;Info;SpecFlow+Runner 3.6.2 in Framework net50 in x64 mode execution started
+2021-02-17T15:39:17.0977198+03:30;VSTestExecutionThread;Info;TestAdapter Location: C:\Hossein\Packages\Test (TDD&BDD)\examples\14-FinalProject\InventoryManagement\tests\Inventory.Tests.E2E\bin\Debug\net5.0\TechTalk.SpecRun.VisualStudio.TestAdapter.dll
+2021-02-17T15:39:17.0991534+03:30;VSTestExecutionThread;Info;Current UserName: 'Atriya', MachineName: 'DESKTOP-T7SLA22'
+2021-02-17T15:39:17.1203917+03:30;VSTestExecutionThread;Info;SpecRun: running tests in C:\Hossein\Packages\Test (TDD&BDD)\examples\14-FinalProject\InventoryManagement\tests\Inventory.Tests.E2E\bin\Debug\net5.0\Inventory.Tests.E2E.dll
+2021-02-17T15:39:17.1205724+03:30;VSTestExecutionThread;Info;Output folder configured to "C:\Hossein\Packages\Test (TDD&BDD)\examples\14-FinalProject\InventoryManagement\TestResults" (default)
+2021-02-17T15:39:17.1206150+03:30;VSTestExecutionThread;Info;Profile: 
+2021-02-17T15:39:17.1530617+03:30;VSTestExecutionThread;Info;Log file path: C:\Hossein\Packages\Test (TDD&BDD)\examples\14-FinalProject\InventoryManagement\TestResults\Unnamed project__2021-02-17T153917.log
+2021-02-17T15:39:17.1562484+03:30;Thread#12;Info;Checking activation
+2021-02-17T15:39:17.2265641+03:30;Thread#12;Info;Activated.
+2021-02-17T15:39:17.2267770+03:30;Thread#12;Info;Activation check completed
+2021-02-17T15:39:17.2268605+03:30;Thread#12;Info;Starting test run
+2021-02-17T15:39:17.2947772+03:30;Thread#12;Info;Discovering target: Default
+2021-02-17T15:39:17.2950077+03:30;Thread#12;Info;Discovering tests from assembly: C:\Hossein\Packages\Test (TDD&BDD)\examples\14-FinalProject\InventoryManagement\tests\Inventory.Tests.E2E\bin\Debug\net5.0\Inventory.Tests.E2E.dll
+2021-02-17T15:39:17.3648625+03:30;Thread#12;Info;Discovered tests from assembly: C:\Hossein\Packages\Test (TDD&BDD)\examples\14-FinalProject\InventoryManagement\tests\Inventory.Tests.E2E\bin\Debug\net5.0\Inventory.Tests.E2E.dll
+2021-02-17T15:39:17.3656528+03:30:Test Suite Dump
+2021-02-17T15:39:17.3668715+03:30:#0: Unnamed project/ - 
+2021-02-17T15:39:17.3668863+03:30:#1: Default - 
+2021-02-17T15:39:17.3668882+03:30:#2: Inventory.Tests.E2E - 
+2021-02-17T15:39:17.3668896+03:30:#3: Inventory Management - 
+2021-02-17T15:39:17.3677401+03:30:#4: Defining New Inventory - TestAssembly:Inventory.Tests.E2E/Feature:Inventory+Management/Scenario:Defining+New+Inventory
+2021-02-17T15:39:17.3677879+03:30:End: Test Suite Dump
+2021-02-17T15:39:17.3816035+03:30:Thread#0:Scheduler: get next test for thread 0
+2021-02-17T15:39:17.3830190+03:30:Thread#:Scheduler: testitem #4 from normal test queue 
+2021-02-17T15:39:17.3830767+03:30:Thread#0:Scheduler: considering testitem #4 for thread 0
+2021-02-17T15:39:17.3853816+03:30:Thread#0:TestItem#4:testItemMatchesCurrentTestThread:UnSpecific
+2021-02-17T15:39:17.3853899+03:30:Thread#0:TestItem#4:runsOnOneOtherThreadSpecific:False
+2021-02-17T15:39:17.3853927+03:30:Thread#0:TestItem#4:runsOnOneOtherThreadUnspecific:False
+2021-02-17T15:39:17.3853944+03:30:Thread#0:Scheduler: using testitem #4 for thread 0
+2021-02-17T15:39:17.3859076+03:30:Thread#0:Scheduler: Test #4 is scheduled for thread
+2021-02-17T15:39:17.3870190+03:30:Thread#0:Scheduler: with testItemExecutionIndex 0
+2021-02-17T15:39:17.3888088+03:30:Thread #0: creating new test thread executor for Inventory.Tests.E2E, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null (target: Default)
+2021-02-17T15:39:17.3908796+03:30:Thread #0: Creating test assembly executor for execution model OutProc
+2021-02-17T15:39:17.3910316+03:30:Thread #0: Creating test assembly executor for execution model OutProc
+2021-02-17T15:39:17.3927162+03:30:Thread #0: using TechTalk.SpecRun.Framework.Execution.OutOfProc.StreamJsonRPC.OutOfProcessTestAssemblyExecutorHost to execute tests
+2021-02-17T15:39:17.3945080+03:30:starting Out Of Process Executor
+2021-02-17T15:39:17.3959681+03:30:Assembly resolving Microsoft.VisualStudio.Validation, Version=15.3.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+2021-02-17T15:39:17.3978537+03:30:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.Validation' from .deps.json file
+2021-02-17T15:39:17.3978623+03:30:[AssemblyCache] Could not resolve 'Microsoft.VisualStudio.Validation' from .deps.json
+2021-02-17T15:39:17.3987606+03:30:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.Validation' in folder 'C:\Hossein\Packages\Test (TDD&BDD)\examples\14-FinalProject\InventoryManagement\tests\Inventory.Tests.E2E\bin\Debug\net5.0'
+2021-02-17T15:39:17.3990183+03:30:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.Validation' to 'C:\Hossein\Packages\Test (TDD&BDD)\examples\14-FinalProject\InventoryManagement\tests\Inventory.Tests.E2E\bin\Debug\net5.0\Microsoft.VisualStudio.Validation.dll'
+2021-02-17T15:39:17.3990832+03:30:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.Validation' to 'C:\Hossein\Packages\Test (TDD&BDD)\examples\14-FinalProject\InventoryManagement\tests\Inventory.Tests.E2E\bin\Debug\net5.0\Microsoft.VisualStudio.Validation.exe'
+2021-02-17T15:39:17.3991116+03:30:[AssemblyCache] Could not resolve 'Microsoft.VisualStudio.Validation' in folder 'C:\Hossein\Packages\Test (TDD&BDD)\examples\14-FinalProject\InventoryManagement\tests\Inventory.Tests.E2E\bin\Debug\net5.0'
+2021-02-17T15:39:17.3992863+03:30:TargetFramework: .NETCoreApp,Version=v5.0
+2021-02-17T15:39:17.3997350+03:30:Tfm: netcoreapp5.0
+2021-02-17T15:39:17.3997447+03:30:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.Validation' in folder 'C:\Hossein\Packages\Test (TDD&BDD)\examples\14-FinalProject\InventoryManagement\tests\Inventory.Tests.E2E\bin\Debug\net5.0\SpecFlowPlusRunner\netcoreapp5.0'
+2021-02-17T15:39:17.3997470+03:30:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.Validation' to 'C:\Hossein\Packages\Test (TDD&BDD)\examples\14-FinalProject\InventoryManagement\tests\Inventory.Tests.E2E\bin\Debug\net5.0\SpecFlowPlusRunner\netcoreapp5.0\Microsoft.VisualStudio.Validation.dll'
+2021-02-17T15:39:17.3998005+03:30:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.Validation' to 'C:\Hossein\Packages\Test (TDD&BDD)\examples\14-FinalProject\InventoryManagement\tests\Inventory.Tests.E2E\bin\Debug\net5.0\SpecFlowPlusRunner\netcoreapp5.0\Microsoft.VisualStudio.Validation.exe'
+2021-02-17T15:39:17.3998309+03:30:[AssemblyCache] Could not resolve 'Microsoft.VisualStudio.Validation' in folder 'C:\Hossein\Packages\Test (TDD&BDD)\examples\14-FinalProject\InventoryManagement\tests\Inventory.Tests.E2E\bin\Debug\net5.0\SpecFlowPlusRunner\netcoreapp5.0'
+2021-02-17T15:39:17.4061879+03:30:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.Validation' in folder 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\5.0.2'
+2021-02-17T15:39:17.4062407+03:30:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.Validation' to 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\5.0.2\Microsoft.VisualStudio.Validation.dll'
+2021-02-17T15:39:17.4062850+03:30:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.Validation' to 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\5.0.2\Microsoft.VisualStudio.Validation.exe'
+2021-02-17T15:39:17.4063108+03:30:[AssemblyCache] Could not resolve 'Microsoft.VisualStudio.Validation' in folder 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\5.0.2'
+2021-02-17T15:39:17.4064206+03:30:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.Validation' in folder 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\5.0.2'
+2021-02-17T15:39:17.4064260+03:30:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.Validation' to 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\5.0.2\Microsoft.VisualStudio.Validation.dll'
+2021-02-17T15:39:17.4064547+03:30:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.Validation' to 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\5.0.2\Microsoft.VisualStudio.Validation.exe'
+2021-02-17T15:39:17.4064762+03:30:[AssemblyCache] Could not resolve 'Microsoft.VisualStudio.Validation' in folder 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\5.0.2'
+2021-02-17T15:39:17.4066378+03:30:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.Validation' in folder 'C:\Program Files\dotnet\shared\Microsoft.WindowsDesktop.App\5.0.2'
+2021-02-17T15:39:17.4066430+03:30:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.Validation' to 'C:\Program Files\dotnet\shared\Microsoft.WindowsDesktop.App\5.0.2\Microsoft.VisualStudio.Validation.dll'
+2021-02-17T15:39:17.4067930+03:30:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.Validation' to 'C:\Program Files\dotnet\shared\Microsoft.WindowsDesktop.App\5.0.2\Microsoft.VisualStudio.Validation.exe'
+2021-02-17T15:39:17.4068222+03:30:[AssemblyCache] Could not resolve 'Microsoft.VisualStudio.Validation' in folder 'C:\Program Files\dotnet\shared\Microsoft.WindowsDesktop.App\5.0.2'
+2021-02-17T15:39:17.4085330+03:30:Starting callback TCP Rpc server
+2021-02-17T15:39:17.4226666+03:30:Asynchronously starting background TCP Rpc Server on port 32768
+2021-02-17T15:39:17.4226976+03:30:Started callback TCP Rpc server on port 32768
+2021-02-17T15:39:17.4226994+03:30:Starting logger TCP Rpc server
+2021-02-17T15:39:17.4241390+03:30:Asynchronously starting background TCP Rpc Server on port 32769
+2021-02-17T15:39:17.4241560+03:30:Started logger TCP Rpc server on port 32769
+2021-02-17T15:39:17.4894085+03:30:Executing test executor at 'dotnet' 'exec "C:\Hossein\Packages\Test (TDD&BDD)\examples\14-FinalProject\InventoryManagement\tests\Inventory.Tests.E2E\bin\Debug\net5.0\SpecFlowPlusRunner\net5.0\TechTalk.SpecRun.Framework.Executor.anycpu.net5_0.dll" --remoteRunnerPid 10940 --uniqueId "2021-02-17T153917" --outputFolder "C:\Hossein\Packages\Test (TDD&BDD)\examples\14-FinalProject\InventoryManagement\TestResults" --callbackPort 32768 --loggerPort 32769' in 'C:\Hossein\Packages\Test (TDD&BDD)\examples\14-FinalProject\InventoryManagement\tests\Inventory.Tests.E2E\bin\Debug\net5.0'
+2021-02-17T15:39:17.4945217+03:30:Executor with PID 6836 has been started successfully.
+2021-02-17T15:39:17.4965557+03:30:Out of Process Executor 6836 started
+2021-02-17T15:39:17.4965709+03:30:Waiting for endpoint
+2021-02-17T15:39:17.7566628+03:30:Assembly resolving Microsoft.VisualStudio.Threading, Version=15.3.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+2021-02-17T15:39:17.7566773+03:30:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.Threading' from .deps.json file
+2021-02-17T15:39:17.7566792+03:30:[AssemblyCache] Could not resolve 'Microsoft.VisualStudio.Threading' from .deps.json
+2021-02-17T15:39:17.7566832+03:30:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.Threading' in folder 'C:\Hossein\Packages\Test (TDD&BDD)\examples\14-FinalProject\InventoryManagement\tests\Inventory.Tests.E2E\bin\Debug\net5.0'
+2021-02-17T15:39:17.7566844+03:30:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.Threading' to 'C:\Hossein\Packages\Test (TDD&BDD)\examples\14-FinalProject\InventoryManagement\tests\Inventory.Tests.E2E\bin\Debug\net5.0\Microsoft.VisualStudio.Threading.dll'
+2021-02-17T15:39:17.7567174+03:30:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.Threading' to 'C:\Hossein\Packages\Test (TDD&BDD)\examples\14-FinalProject\InventoryManagement\tests\Inventory.Tests.E2E\bin\Debug\net5.0\Microsoft.VisualStudio.Threading.exe'
+2021-02-17T15:39:17.7567404+03:30:[AssemblyCache] Could not resolve 'Microsoft.VisualStudio.Threading' in folder 'C:\Hossein\Packages\Test (TDD&BDD)\examples\14-FinalProject\InventoryManagement\tests\Inventory.Tests.E2E\bin\Debug\net5.0'
+2021-02-17T15:39:17.7567429+03:30:TargetFramework: .NETCoreApp,Version=v5.0
+2021-02-17T15:39:17.7567587+03:30:Tfm: netcoreapp5.0
+2021-02-17T15:39:17.7567611+03:30:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.Threading' in folder 'C:\Hossein\Packages\Test (TDD&BDD)\examples\14-FinalProject\InventoryManagement\tests\Inventory.Tests.E2E\bin\Debug\net5.0\SpecFlowPlusRunner\netcoreapp5.0'
+2021-02-17T15:39:17.7567623+03:30:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.Threading' to 'C:\Hossein\Packages\Test (TDD&BDD)\examples\14-FinalProject\InventoryManagement\tests\Inventory.Tests.E2E\bin\Debug\net5.0\SpecFlowPlusRunner\netcoreapp5.0\Microsoft.VisualStudio.Threading.dll'
+2021-02-17T15:39:17.7567992+03:30:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.Threading' to 'C:\Hossein\Packages\Test (TDD&BDD)\examples\14-FinalProject\InventoryManagement\tests\Inventory.Tests.E2E\bin\Debug\net5.0\SpecFlowPlusRunner\netcoreapp5.0\Microsoft.VisualStudio.Threading.exe'
+2021-02-17T15:39:17.7568253+03:30:[AssemblyCache] Could not resolve 'Microsoft.VisualStudio.Threading' in folder 'C:\Hossein\Packages\Test (TDD&BDD)\examples\14-FinalProject\InventoryManagement\tests\Inventory.Tests.E2E\bin\Debug\net5.0\SpecFlowPlusRunner\netcoreapp5.0'
+2021-02-17T15:39:17.7571494+03:30:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.Threading' in folder 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\5.0.2'
+2021-02-17T15:39:17.7571574+03:30:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.Threading' to 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\5.0.2\Microsoft.VisualStudio.Threading.dll'
+2021-02-17T15:39:17.7571902+03:30:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.Threading' to 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\5.0.2\Microsoft.VisualStudio.Threading.exe'
+2021-02-17T15:39:17.7572124+03:30:[AssemblyCache] Could not resolve 'Microsoft.VisualStudio.Threading' in folder 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\5.0.2'
+2021-02-17T15:39:17.7572855+03:30:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.Threading' in folder 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\5.0.2'
+2021-02-17T15:39:17.7572897+03:30:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.Threading' to 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\5.0.2\Microsoft.VisualStudio.Threading.dll'
+2021-02-17T15:39:17.7573148+03:30:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.Threading' to 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\5.0.2\Microsoft.VisualStudio.Threading.exe'
+2021-02-17T15:39:17.7573345+03:30:[AssemblyCache] Could not resolve 'Microsoft.VisualStudio.Threading' in folder 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\5.0.2'
+2021-02-17T15:39:17.7574262+03:30:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.Threading' in folder 'C:\Program Files\dotnet\shared\Microsoft.WindowsDesktop.App\5.0.2'
+2021-02-17T15:39:17.7574308+03:30:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.Threading' to 'C:\Program Files\dotnet\shared\Microsoft.WindowsDesktop.App\5.0.2\Microsoft.VisualStudio.Threading.dll'
+2021-02-17T15:39:17.7574632+03:30:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.Threading' to 'C:\Program Files\dotnet\shared\Microsoft.WindowsDesktop.App\5.0.2\Microsoft.VisualStudio.Threading.exe'
+2021-02-17T15:39:17.7574847+03:30:[AssemblyCache] Could not resolve 'Microsoft.VisualStudio.Threading' in folder 'C:\Program Files\dotnet\shared\Microsoft.WindowsDesktop.App\5.0.2'
+2021-02-17T15:39:17.9185616+03:30:Remote executor port received: 32770
+2021-02-17T15:39:17.9188019+03:30:Creating executor TCP client on port 32770
+2021-02-17T15:39:17.9191101+03:30:Created executor TCP client on port 32770
+2021-02-17T15:39:17.9191156+03:30:Connecting to remote executor TCP server
+2021-02-17T15:39:17.9197658+03:30:Connected remote executor TCP server
+2021-02-17T15:39:17.9198764+03:30:trying to connect to Out of Process Executor the 1 attempt
+2021-02-17T15:39:17.9198837+03:30:Connection to Out of Process Executor established in the 1 attempt
+2021-02-17T15:39:18.0317351+03:30:2021-02-17T15:39:18.0305481+03:30:OutOfProcessTestAssemblyExecutor: initialized for C:\Hossein\Packages\Test (TDD&BDD)\examples\14-FinalProject\InventoryManagement\tests\Inventory.Tests.E2E\bin\Debug\net5.0\Inventory.Tests.E2E.dll on test thread #0
+2021-02-17T15:39:18.0353188+03:30:Endpoint 6836 started
+2021-02-17T15:39:18.0486322+03:30:2021-02-17T15:39:18.0483341+03:30:OutOfProcessTestAssemblyExecutor: running tests...
+2021-02-17T15:39:18.1267472+03:30:2021-02-17T15:39:18.1260484+03:30:Assembly resolving TechTalk.SpecFlow, Version=3.6.0.0, Culture=neutral, PublicKeyToken=0778194805d6db41
+2021-02-17T15:39:18.1297001+03:30:2021-02-17T15:39:18.1291466+03:30:[AssemblyCache] Trying to resolve 'TechTalk.SpecFlow' from .deps.json file
+2021-02-17T15:39:18.1325703+03:30:2021-02-17T15:39:18.1322830+03:30:[AssemblyCache] Resolved 'TechTalk.SpecFlow' to 'C:\Users\Atria\.nuget\packages\specflow\3.6.23\lib\netstandard2.0\TechTalk.SpecFlow.dll'
+2021-02-17T15:39:18.2226565+03:30:2021-02-17T15:39:18.2223281+03:30:Thread#0:T:-> Loading plugin C:\Hossein\Packages\Test (TDD&BDD)\examples\14-FinalProject\InventoryManagement\tests\Inventory.Tests.E2E\bin\Debug\net5.0\Inventory.Tests.E2E.dll
+2021-02-17T15:39:18.2234476+03:30:2021-02-17T15:39:18.2232966+03:30:Thread#0:T:-> Missing [assembly:RuntimePlugin] attribute in Inventory.Tests.E2E, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null. Please check https://go.specflow.org/doc-plugins for details.
+2021-02-17T15:39:18.2238192+03:30:2021-02-17T15:39:18.2236254+03:30:Thread#0:T:-> Loading plugin C:\Hossein\Packages\Test (TDD&BDD)\examples\14-FinalProject\InventoryManagement\tests\Inventory.Tests.E2E\bin\Debug\net5.0\LivingDoc.SpecFlowPlugin.dll
+2021-02-17T15:39:18.2248359+03:30:2021-02-17T15:39:18.2244415+03:30:Assembly resolving TechTalk.SpecFlow, Version=3.6.0.0, Culture=neutral, PublicKeyToken=0778194805d6db41
+2021-02-17T15:39:18.2281322+03:30:2021-02-17T15:39:18.2278305+03:30:Assembly resolving LivingDoc.Dtos, Version=3.6.0.0, Culture=neutral, PublicKeyToken=null
+2021-02-17T15:39:18.2285571+03:30:2021-02-17T15:39:18.2283654+03:30:[AssemblyCache] Trying to resolve 'LivingDoc.Dtos' from .deps.json file
+2021-02-17T15:39:18.2291738+03:30:2021-02-17T15:39:18.2289170+03:30:[AssemblyCache] Resolved 'LivingDoc.Dtos' to 'C:\Users\Atria\.nuget\packages\specflow.plus.livingdocplugin\3.6.6\lib\netstandard2.0\LivingDoc.Dtos.dll'
+2021-02-17T15:39:18.2330424+03:30:2021-02-17T15:39:18.2326921+03:30:Thread#0:T:-> Loading plugin C:\Hossein\Packages\Test (TDD&BDD)\examples\14-FinalProject\InventoryManagement\tests\Inventory.Tests.E2E\bin\Debug\net5.0\SpecRun.Runtime.SpecFlowPlugin.dll
+2021-02-17T15:39:18.2338373+03:30:2021-02-17T15:39:18.2336715+03:30:Assembly resolving TechTalk.SpecFlow, Version=3.6.0.0, Culture=neutral, PublicKeyToken=0778194805d6db41
+2021-02-17T15:39:18.2413484+03:30:2021-02-17T15:39:18.2410158+03:30:Thread#0:T:-> Using default config
+2021-02-17T15:39:18.2492444+03:30:2021-02-17T15:39:18.2489837+03:30:Assembly resolving Cucumber.Messages, Version=6.0.1.0, Culture=neutral, PublicKeyToken=b10c5988214f940c
+2021-02-17T15:39:18.2496241+03:30:2021-02-17T15:39:18.2494556+03:30:[AssemblyCache] Trying to resolve 'Cucumber.Messages' from .deps.json file
+2021-02-17T15:39:18.2501425+03:30:2021-02-17T15:39:18.2499157+03:30:[AssemblyCache] Resolved 'Cucumber.Messages' to 'C:\Users\Atria\.nuget\packages\cucumber.messages\6.0.1\lib\netstandard2.0\Cucumber.Messages.dll'
+2021-02-17T15:39:18.2509530+03:30:2021-02-17T15:39:18.2507661+03:30:Assembly resolving Google.Protobuf, Version=3.7.0.0, Culture=neutral, PublicKeyToken=a7d26565bac4d604
+2021-02-17T15:39:18.2512556+03:30:2021-02-17T15:39:18.2511100+03:30:[AssemblyCache] Trying to resolve 'Google.Protobuf' from .deps.json file
+2021-02-17T15:39:18.2515910+03:30:2021-02-17T15:39:18.2514397+03:30:[AssemblyCache] Resolved 'Google.Protobuf' to 'C:\Users\Atria\.nuget\packages\google.protobuf\3.7.0\lib\netstandard1.0\Google.Protobuf.dll'
+2021-02-17T15:39:18.2598552+03:30:2021-02-17T15:39:18.2590334+03:30:Assembly resolving Microsoft.VisualStudio.TestPlatform.ObjectModel, Version=15.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+2021-02-17T15:39:18.2602228+03:30:2021-02-17T15:39:18.2600626+03:30:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.TestPlatform.ObjectModel' from .deps.json file
+2021-02-17T15:39:18.2609237+03:30:2021-02-17T15:39:18.2606017+03:30:[AssemblyCache] Resolved 'Microsoft.VisualStudio.TestPlatform.ObjectModel' to 'C:\Users\Atria\.nuget\packages\microsoft.testplatform.objectmodel\16.5.0\lib\netstandard2.0\Microsoft.VisualStudio.TestPlatform.ObjectModel.dll'
+2021-02-17T15:39:18.2888504+03:30:2021-02-17T15:39:18.2885643+03:30:Assembly resolving Utf8Json, Version=1.3.7.0, Culture=neutral, PublicKeyToken=8a73d3ba7e392e27
+2021-02-17T15:39:18.2891063+03:30:2021-02-17T15:39:18.2890017+03:30:[AssemblyCache] Trying to resolve 'Utf8Json' from .deps.json file
+2021-02-17T15:39:18.2895597+03:30:2021-02-17T15:39:18.2894285+03:30:[AssemblyCache] Resolved 'Utf8Json' to 'C:\Users\Atria\.nuget\packages\utf8json\1.3.7\lib\netstandard2.0\Utf8Json.dll'
+2021-02-17T15:39:18.4391130+03:30:Thread#0: Test #4/0 is started on thread #0
+2021-02-17T15:39:20.8380724+03:30:2021-02-17T15:39:20.8376103+03:30:Thread#0:B:Given I Want To Add The Following Inventory
+2021-02-17T15:39:20.8386039+03:30:2021-02-17T15:39:20.8383465+03:30:Thread#0:B:  --- table step argument ---
+2021-02-17T15:39:20.8390918+03:30:2021-02-17T15:39:20.8388397+03:30:Thread#0:B:  | Product | UnitPrice |
+2021-02-17T15:39:20.8395919+03:30:2021-02-17T15:39:20.8393503+03:30:Thread#0:B:  | IPhone  | 1100      |
+2021-02-17T15:39:20.8488183+03:30:2021-02-17T15:39:20.8484345+03:30:Assembly resolving Inventory.Application.Contract, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+2021-02-17T15:39:20.8493361+03:30:2021-02-17T15:39:20.8490866+03:30:[AssemblyCache] Trying to resolve 'Inventory.Application.Contract' from .deps.json file
+2021-02-17T15:39:20.8502180+03:30:2021-02-17T15:39:20.8499742+03:30:[DependencyContextAssemblyCache.ResolveManagedAssembly] Resolving 'Inventory.Application.Contract', found in dependency map, but unable to resolve a path in ['Inventory.Application.Contract.dll']
+2021-02-17T15:39:20.8506666+03:30:2021-02-17T15:39:20.8504268+03:30:[AssemblyCache] Could not resolve 'Inventory.Application.Contract' from .deps.json
+2021-02-17T15:39:20.8519137+03:30:2021-02-17T15:39:20.8516734+03:30:[AssemblyCache] Trying to resolve 'Inventory.Application.Contract' in folder 'C:\Hossein\Packages\Test (TDD&BDD)\examples\14-FinalProject\InventoryManagement\tests\Inventory.Tests.E2E\bin\Debug\net5.0'
+2021-02-17T15:39:20.8550165+03:30:2021-02-17T15:39:20.8547532+03:30:[AssemblyCache] Trying to resolve 'Inventory.Application.Contract' to 'C:\Hossein\Packages\Test (TDD&BDD)\examples\14-FinalProject\InventoryManagement\tests\Inventory.Tests.E2E\bin\Debug\net5.0\Inventory.Application.Contract.dll'
+2021-02-17T15:39:20.8555821+03:30:2021-02-17T15:39:20.8553224+03:30:[AssemblyCache] Found file 'C:\Hossein\Packages\Test (TDD&BDD)\examples\14-FinalProject\InventoryManagement\tests\Inventory.Tests.E2E\bin\Debug\net5.0\Inventory.Application.Contract.dll' for assembly 'Inventory.Application.Contract'
+2021-02-17T15:39:20.8564081+03:30:2021-02-17T15:39:20.8560780+03:30:[AssemblyCache] Resolved 'Inventory.Application.Contract' to C:\Hossein\Packages\Test (TDD&BDD)\examples\14-FinalProject\InventoryManagement\tests\Inventory.Tests.E2E\bin\Debug\net5.0\Inventory.Application.Contract.dll
+2021-02-17T15:39:20.8834763+03:30:2021-02-17T15:39:20.8830847+03:30:Thread#0:T:done: InventoryManagementSteps.GivenIWantToAddTheFollowingInventory(<table>) (0.0s)
+2021-02-17T15:39:20.8852336+03:30:2021-02-17T15:39:20.8849066+03:30:Thread#0:B:When I Try To Define This Inventory
+2021-02-17T15:39:20.8862434+03:30:2021-02-17T15:39:20.8860384+03:30:Assembly resolving RestSharp, Version=106.11.7.0, Culture=neutral, PublicKeyToken=598062e77f915f75
+2021-02-17T15:39:20.8866596+03:30:2021-02-17T15:39:20.8864596+03:30:[AssemblyCache] Trying to resolve 'RestSharp' from .deps.json file
+2021-02-17T15:39:20.8872281+03:30:2021-02-17T15:39:20.8869989+03:30:[AssemblyCache] Resolved 'RestSharp' to 'C:\Users\Atria\.nuget\packages\restsharp\106.11.7\lib\netstandard2.0\RestSharp.dll'
+2021-02-17T15:39:21.9423238+03:30:2021-02-17T15:39:21.9419545+03:30:Thread#0:T:done: InventoryManagementSteps.WhenITryToDefineThisInventory() (1.1s)
+2021-02-17T15:39:21.9429941+03:30:2021-02-17T15:39:21.9427783+03:30:Thread#0:B:Then The Inventory Should Be Created
+2021-02-17T15:39:21.9439933+03:30:2021-02-17T15:39:21.9437398+03:30:Assembly resolving FluentAssertions, Version=5.10.3.0, Culture=neutral, PublicKeyToken=33f2691a05b67b6a
+2021-02-17T15:39:21.9443841+03:30:2021-02-17T15:39:21.9442018+03:30:[AssemblyCache] Trying to resolve 'FluentAssertions' from .deps.json file
+2021-02-17T15:39:21.9449656+03:30:2021-02-17T15:39:21.9447152+03:30:[AssemblyCache] Resolved 'FluentAssertions' to 'C:\Users\Atria\.nuget\packages\fluentassertions\5.10.3\lib\netcoreapp2.1\FluentAssertions.dll'
+2021-02-17T15:39:21.9499256+03:30:2021-02-17T15:39:21.9494426+03:30:Thread#0:T:done: InventoryManagementSteps.ThenTheInventoryShouldBeCreated() (0.0s)
+2021-02-17T15:39:21.9511019+03:30:2021-02-17T15:39:21.9507079+03:30:Thread#0:B:And It Should Be Empty
+2021-02-17T15:39:21.9527807+03:30:2021-02-17T15:39:21.9524445+03:30:Thread#0:T:done: InventoryManagementSteps.ThenItShouldBeEmpty() (0.0s)
+2021-02-17T15:39:21.9606046+03:30:Thread#0:Scheduler: get next test for thread 0
+2021-02-17T15:39:21.9606313+03:30:Thread#:Scheduler: at the end of normal test queue
+2021-02-17T15:39:21.9606339+03:30:Thread#0:Scheduler: enumerator for thread is at end
+2021-02-17T15:39:21.9606374+03:30:Thread#0:Scheduler: No more tests for thread
+2021-02-17T15:39:22.0100385+03:30:Thread#0: Test #4/0 is finished on thread #0 as Succeeded within 3.57015 seconds
+2021-02-17T15:39:22.0172354+03:30:2021-02-17T15:39:22.0169566+03:30:Got Deinitialize Signal
+2021-02-17T15:39:22.0194804+03:30:RPC Client disconnected, because 'Disposed'. 
+LastMessage: 
+Description:Stream has been disposed
+Exception:<none>
+2021-02-17T15:39:22.0202213+03:30:RPC Server disconnected, because 'Disposed'. 
+LastMessage: 
+Description:Reached end of stream.
+Exception:<none>
+2021-02-17T15:39:22.0208582+03:30:RPC Server disconnected, because 'Disposed'. 
+LastMessage: 
+Description:Reached end of stream.
+Exception:<none>
+2021-02-17T15:39:22.0264849+03:30:Thread#-1:Scheduler: get next test for thread -1
+2021-02-17T15:39:22.0264977+03:30:Thread#:Scheduler: at the end of normal test queue
+2021-02-17T15:39:22.0264995+03:30:Thread#-1:Scheduler: enumerator for thread is at end
+2021-02-17T15:39:22.0278041+03:30;Thread#12;Info;test run finished
+2021-02-17T15:39:22.0279156+03:30;Thread#12;Info;publishing test results
+2021-02-17T15:39:22.0280040+03:30;Thread#12;Info;Not publishing results.
+2021-02-17T15:39:22.0280412+03:30;Thread#12;Info;test results published
+2021-02-17T15:39:22.0280678+03:30;Thread#12;Info;generating reports
+2021-02-17T15:39:22.0886226+03:30;Thread#12;Info;Starting external report generation process
+2021-02-17T15:39:23.0556291+03:30;Thread#12;Info;Successfully generated reports.
+2021-02-17T15:39:23.0566312+03:30;Thread#12;Info;Successfully generated reports
+2021-02-17T15:39:23.0604783+03:30:Total: 1
+2021-02-17T15:39:23.0617359+03:30:Succeeded: 1
+2021-02-17T15:39:23.0619498+03:30:Ignored: 0
+2021-02-17T15:39:23.0621316+03:30:Pending: 0
+2021-02-17T15:39:23.0621446+03:30:Skipped: 0
+2021-02-17T15:39:23.0623284+03:30:Failed: 0
+2021-02-17T15:39:23.0671464+03:30;VSTestExecutionThread;Info;Adding attachments to VSTest
+2021-02-17T15:39:23.0672211+03:30;VSTestExecutionThread;Info;adding Test Execution Report 'C:\Hossein\Packages\Test (TDD&BDD)\examples\14-FinalProject\InventoryManagement\TestResults\Unnamed project__2021-02-17T153917.html'
+========== End of log file ==========

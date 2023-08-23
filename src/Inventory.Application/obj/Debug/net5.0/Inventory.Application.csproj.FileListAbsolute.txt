@@ -1,0 +1,51 @@
+C:/Hossein/Packages/Test (TDD&BDD)/examples/14-FinalProject/InventoryManagement/src/Inventory.Application/bin/Debug/net5.0/Inventory.Application.deps.json
+C:/Hossein/Packages/Test (TDD&BDD)/examples/14-FinalProject/InventoryManagement/src/Inventory.Application/bin/Debug/net5.0/Inventory.Application.dll
+C:/Hossein/Packages/Test (TDD&BDD)/examples/14-FinalProject/InventoryManagement/src/Inventory.Application/bin/Debug/net5.0/ref/Inventory.Application.dll
+C:/Hossein/Packages/Test (TDD&BDD)/examples/14-FinalProject/InventoryManagement/src/Inventory.Application/bin/Debug/net5.0/Inventory.Application.pdb
+C:/Hossein/Packages/Test (TDD&BDD)/examples/14-FinalProject/InventoryManagement/src/Inventory.Application/bin/Debug/net5.0/Inventory.Application.Contract.dll
+C:/Hossein/Packages/Test (TDD&BDD)/examples/14-FinalProject/InventoryManagement/src/Inventory.Application/bin/Debug/net5.0/Inventory.Domain.dll
+C:/Hossein/Packages/Test (TDD&BDD)/examples/14-FinalProject/InventoryManagement/src/Inventory.Application/bin/Debug/net5.0/Inventory.Domain.pdb
+C:/Hossein/Packages/Test (TDD&BDD)/examples/14-FinalProject/InventoryManagement/src/Inventory.Application/bin/Debug/net5.0/Inventory.Application.Contract.pdb
+C:/Hossein/Packages/Test (TDD&BDD)/examples/14-FinalProject/InventoryManagement/src/Inventory.Application/obj/Debug/net5.0/Inventory.Application.csprojAssemblyReference.cache
+C:/Hossein/Packages/Test (TDD&BDD)/examples/14-FinalProject/InventoryManagement/src/Inventory.Application/obj/Debug/net5.0/Inventory.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:/Hossein/Packages/Test (TDD&BDD)/examples/14-FinalProject/InventoryManagement/src/Inventory.Application/obj/Debug/net5.0/Inventory.Application.AssemblyInfoInputs.cache
+C:/Hossein/Packages/Test (TDD&BDD)/examples/14-FinalProject/InventoryManagement/src/Inventory.Application/obj/Debug/net5.0/Inventory.Application.AssemblyInfo.cs
+C:/Hossein/Packages/Test (TDD&BDD)/examples/14-FinalProject/InventoryManagement/src/Inventory.Application/obj/Debug/net5.0/Inventory.Application.csproj.CoreCompileInputs.cache
+C:/Hossein/Packages/Test (TDD&BDD)/examples/14-FinalProject/InventoryManagement/src/Inventory.Application/obj/Debug/net5.0/Inventory.Application.csproj.CopyComplete
+C:/Hossein/Packages/Test (TDD&BDD)/examples/14-FinalProject/InventoryManagement/src/Inventory.Application/obj/Debug/net5.0/Inventory.Application.dll
+C:/Hossein/Packages/Test (TDD&BDD)/examples/14-FinalProject/InventoryManagement/src/Inventory.Application/obj/Debug/net5.0/ref/Inventory.Application.dll
+C:/Hossein/Packages/Test (TDD&BDD)/examples/14-FinalProject/InventoryManagement/src/Inventory.Application/obj/Debug/net5.0/Inventory.Application.pdb
+/Users/hosein/Desktop/Packages/Test (TDD&BDD)/examples/14-FinalProject/InventoryManagement/src/Inventory.Application/bin/Debug/net5.0/Inventory.Application.deps.json
+/Users/hosein/Desktop/Packages/Test (TDD&BDD)/examples/14-FinalProject/InventoryManagement/src/Inventory.Application/bin/Debug/net5.0/Inventory.Application.dll
+/Users/hosein/Desktop/Packages/Test (TDD&BDD)/examples/14-FinalProject/InventoryManagement/src/Inventory.Application/bin/Debug/net5.0/Inventory.Application.pdb
+/Users/hosein/Desktop/Packages/Test (TDD&BDD)/examples/14-FinalProject/InventoryManagement/src/Inventory.Application/bin/Debug/net5.0/Inventory.Application.Contract.dll
+/Users/hosein/Desktop/Packages/Test (TDD&BDD)/examples/14-FinalProject/InventoryManagement/src/Inventory.Application/bin/Debug/net5.0/Inventory.Domain.dll
+/Users/hosein/Desktop/Packages/Test (TDD&BDD)/examples/14-FinalProject/InventoryManagement/src/Inventory.Application/bin/Debug/net5.0/Inventory.Domain.pdb
+/Users/hosein/Desktop/Packages/Test (TDD&BDD)/examples/14-FinalProject/InventoryManagement/src/Inventory.Application/bin/Debug/net5.0/Inventory.Application.Contract.pdb
+/Users/hosein/Desktop/Packages/Test (TDD&BDD)/examples/14-FinalProject/InventoryManagement/src/Inventory.Application/obj/Debug/net5.0/Inventory.Application.csproj.AssemblyReference.cache
+/Users/hosein/Desktop/Packages/Test (TDD&BDD)/examples/14-FinalProject/InventoryManagement/src/Inventory.Application/obj/Debug/net5.0/Inventory.Application.GeneratedMSBuildEditorConfig.editorconfig
+/Users/hosein/Desktop/Packages/Test (TDD&BDD)/examples/14-FinalProject/InventoryManagement/src/Inventory.Application/obj/Debug/net5.0/Inventory.Application.AssemblyInfoInputs.cache
+/Users/hosein/Desktop/Packages/Test (TDD&BDD)/examples/14-FinalProject/InventoryManagement/src/Inventory.Application/obj/Debug/net5.0/Inventory.Application.AssemblyInfo.cs
+/Users/hosein/Desktop/Packages/Test (TDD&BDD)/examples/14-FinalProject/InventoryManagement/src/Inventory.Application/obj/Debug/net5.0/Inventory.Application.csproj.CoreCompileInputs.cache
+/Users/hosein/Desktop/Packages/Test (TDD&BDD)/examples/14-FinalProject/InventoryManagement/src/Inventory.Application/obj/Debug/net5.0/Inventory.Application.csproj.CopyComplete
+/Users/hosein/Desktop/Packages/Test (TDD&BDD)/examples/14-FinalProject/InventoryManagement/src/Inventory.Application/obj/Debug/net5.0/Inventory.Application.dll
+/Users/hosein/Desktop/Packages/Test (TDD&BDD)/examples/14-FinalProject/InventoryManagement/src/Inventory.Application/obj/Debug/net5.0/refint/Inventory.Application.dll
+/Users/hosein/Desktop/Packages/Test (TDD&BDD)/examples/14-FinalProject/InventoryManagement/src/Inventory.Application/obj/Debug/net5.0/Inventory.Application.pdb
+/Users/hosein/Desktop/Packages/Test (TDD&BDD)/examples/14-FinalProject/InventoryManagement/src/Inventory.Application/obj/Debug/net5.0/ref/Inventory.Application.dll
+/Users/hosein/Desktop/Projects/TddFinalProject/src/Inventory.Application/bin/Debug/net5.0/Inventory.Application.deps.json
+/Users/hosein/Desktop/Projects/TddFinalProject/src/Inventory.Application/bin/Debug/net5.0/Inventory.Application.dll
+/Users/hosein/Desktop/Projects/TddFinalProject/src/Inventory.Application/bin/Debug/net5.0/Inventory.Application.pdb
+/Users/hosein/Desktop/Projects/TddFinalProject/src/Inventory.Application/bin/Debug/net5.0/Inventory.Application.Contract.dll
+/Users/hosein/Desktop/Projects/TddFinalProject/src/Inventory.Application/bin/Debug/net5.0/Inventory.Domain.dll
+/Users/hosein/Desktop/Projects/TddFinalProject/src/Inventory.Application/bin/Debug/net5.0/Inventory.Domain.pdb
+/Users/hosein/Desktop/Projects/TddFinalProject/src/Inventory.Application/bin/Debug/net5.0/Inventory.Application.Contract.pdb
+/Users/hosein/Desktop/Projects/TddFinalProject/src/Inventory.Application/obj/Debug/net5.0/Inventory.Application.csproj.AssemblyReference.cache
+/Users/hosein/Desktop/Projects/TddFinalProject/src/Inventory.Application/obj/Debug/net5.0/Inventory.Application.GeneratedMSBuildEditorConfig.editorconfig
+/Users/hosein/Desktop/Projects/TddFinalProject/src/Inventory.Application/obj/Debug/net5.0/Inventory.Application.AssemblyInfoInputs.cache
+/Users/hosein/Desktop/Projects/TddFinalProject/src/Inventory.Application/obj/Debug/net5.0/Inventory.Application.AssemblyInfo.cs
+/Users/hosein/Desktop/Projects/TddFinalProject/src/Inventory.Application/obj/Debug/net5.0/Inventory.Application.csproj.CoreCompileInputs.cache
+/Users/hosein/Desktop/Projects/TddFinalProject/src/Inventory.Application/obj/Debug/net5.0/Inventory.Application.csproj.CopyComplete
+/Users/hosein/Desktop/Projects/TddFinalProject/src/Inventory.Application/obj/Debug/net5.0/Inventory.Application.dll
+/Users/hosein/Desktop/Projects/TddFinalProject/src/Inventory.Application/obj/Debug/net5.0/refint/Inventory.Application.dll
+/Users/hosein/Desktop/Projects/TddFinalProject/src/Inventory.Application/obj/Debug/net5.0/Inventory.Application.pdb
+/Users/hosein/Desktop/Projects/TddFinalProject/src/Inventory.Application/obj/Debug/net5.0/ref/Inventory.Application.dll

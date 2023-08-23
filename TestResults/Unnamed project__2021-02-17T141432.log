@@ -1,0 +1,242 @@
+﻿2021-02-17T14:14:32.8794195+03:30;VSTestExecutionThread;Info;SpecFlow+Runner execution started
+2021-02-17T14:14:32.8795366+03:30;VSTestExecutionThread;Info;SpecFlow+Runner 3.6.2 in Framework net50 in x64 mode execution started
+2021-02-17T14:14:32.8795396+03:30;VSTestExecutionThread;Info;TestAdapter Location: C:\Hossein\Packages\Test (TDD&BDD)\examples\14-FinalProject\InventoryManagement\tests\Inventory.Tests.E2E\bin\Debug\net5.0\TechTalk.SpecRun.VisualStudio.TestAdapter.dll
+2021-02-17T14:14:32.8806833+03:30;VSTestExecutionThread;Info;Current UserName: 'Atriya', MachineName: 'DESKTOP-T7SLA22'
+2021-02-17T14:14:32.8989216+03:30;VSTestExecutionThread;Info;SpecRun: running tests in C:\Hossein\Packages\Test (TDD&BDD)\examples\14-FinalProject\InventoryManagement\tests\Inventory.Tests.E2E\bin\Debug\net5.0\Inventory.Tests.E2E.dll
+2021-02-17T14:14:32.8990726+03:30;VSTestExecutionThread;Info;Output folder configured to "C:\Hossein\Packages\Test (TDD&BDD)\examples\14-FinalProject\InventoryManagement\TestResults" (default)
+2021-02-17T14:14:32.8991134+03:30;VSTestExecutionThread;Info;Profile: 
+2021-02-17T14:14:32.9275672+03:30;VSTestExecutionThread;Info;Log file path: C:\Hossein\Packages\Test (TDD&BDD)\examples\14-FinalProject\InventoryManagement\TestResults\Unnamed project__2021-02-17T141432.log
+2021-02-17T14:14:32.9307516+03:30;Thread#12;Info;Checking activation
+2021-02-17T14:14:32.9909543+03:30;Thread#12;Info;Activated.
+2021-02-17T14:14:32.9911191+03:30;Thread#12;Info;Activation check completed
+2021-02-17T14:14:32.9911705+03:30;Thread#12;Info;Starting test run
+2021-02-17T14:14:33.0500090+03:30;Thread#12;Info;Discovering target: Default
+2021-02-17T14:14:33.0501899+03:30;Thread#12;Info;Discovering tests from assembly: C:\Hossein\Packages\Test (TDD&BDD)\examples\14-FinalProject\InventoryManagement\tests\Inventory.Tests.E2E\bin\Debug\net5.0\Inventory.Tests.E2E.dll
+2021-02-17T14:14:33.1087572+03:30;Thread#12;Info;Discovered tests from assembly: C:\Hossein\Packages\Test (TDD&BDD)\examples\14-FinalProject\InventoryManagement\tests\Inventory.Tests.E2E\bin\Debug\net5.0\Inventory.Tests.E2E.dll
+2021-02-17T14:14:33.1094617+03:30:Test Suite Dump
+2021-02-17T14:14:33.1105402+03:30:#0: Unnamed project/ - 
+2021-02-17T14:14:33.1105519+03:30:#1: Default - 
+2021-02-17T14:14:33.1105537+03:30:#2: Inventory.Tests.E2E - 
+2021-02-17T14:14:33.1105549+03:30:#3: Inventory Management - 
+2021-02-17T14:14:33.1114686+03:30:#4: Defining New Inventory - TestAssembly:Inventory.Tests.E2E/Feature:Inventory+Management/Scenario:Defining+New+Inventory
+2021-02-17T14:14:33.1115121+03:30:End: Test Suite Dump
+2021-02-17T14:14:33.1227117+03:30:Thread#0:Scheduler: get next test for thread 0
+2021-02-17T14:14:33.1239458+03:30:Thread#:Scheduler: testitem #4 from normal test queue 
+2021-02-17T14:14:33.1239952+03:30:Thread#0:Scheduler: considering testitem #4 for thread 0
+2021-02-17T14:14:33.1260902+03:30:Thread#0:TestItem#4:testItemMatchesCurrentTestThread:UnSpecific
+2021-02-17T14:14:33.1260974+03:30:Thread#0:TestItem#4:runsOnOneOtherThreadSpecific:False
+2021-02-17T14:14:33.1260989+03:30:Thread#0:TestItem#4:runsOnOneOtherThreadUnspecific:False
+2021-02-17T14:14:33.1261012+03:30:Thread#0:Scheduler: using testitem #4 for thread 0
+2021-02-17T14:14:33.1265612+03:30:Thread#0:Scheduler: Test #4 is scheduled for thread
+2021-02-17T14:14:33.1275742+03:30:Thread#0:Scheduler: with testItemExecutionIndex 0
+2021-02-17T14:14:33.1291725+03:30:Thread #0: creating new test thread executor for Inventory.Tests.E2E, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null (target: Default)
+2021-02-17T14:14:33.1308981+03:30:Thread #0: Creating test assembly executor for execution model OutProc
+2021-02-17T14:14:33.1310367+03:30:Thread #0: Creating test assembly executor for execution model OutProc
+2021-02-17T14:14:33.1326257+03:30:Thread #0: using TechTalk.SpecRun.Framework.Execution.OutOfProc.StreamJsonRPC.OutOfProcessTestAssemblyExecutorHost to execute tests
+2021-02-17T14:14:33.1342757+03:30:starting Out Of Process Executor
+2021-02-17T14:14:33.1355834+03:30:Assembly resolving Microsoft.VisualStudio.Validation, Version=15.3.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+2021-02-17T14:14:33.1372783+03:30:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.Validation' from .deps.json file
+2021-02-17T14:14:33.1372867+03:30:[AssemblyCache] Could not resolve 'Microsoft.VisualStudio.Validation' from .deps.json
+2021-02-17T14:14:33.1380624+03:30:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.Validation' in folder 'C:\Hossein\Packages\Test (TDD&BDD)\examples\14-FinalProject\InventoryManagement\tests\Inventory.Tests.E2E\bin\Debug\net5.0'
+2021-02-17T14:14:33.1383009+03:30:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.Validation' to 'C:\Hossein\Packages\Test (TDD&BDD)\examples\14-FinalProject\InventoryManagement\tests\Inventory.Tests.E2E\bin\Debug\net5.0\Microsoft.VisualStudio.Validation.dll'
+2021-02-17T14:14:33.1383686+03:30:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.Validation' to 'C:\Hossein\Packages\Test (TDD&BDD)\examples\14-FinalProject\InventoryManagement\tests\Inventory.Tests.E2E\bin\Debug\net5.0\Microsoft.VisualStudio.Validation.exe'
+2021-02-17T14:14:33.1383944+03:30:[AssemblyCache] Could not resolve 'Microsoft.VisualStudio.Validation' in folder 'C:\Hossein\Packages\Test (TDD&BDD)\examples\14-FinalProject\InventoryManagement\tests\Inventory.Tests.E2E\bin\Debug\net5.0'
+2021-02-17T14:14:33.1385436+03:30:TargetFramework: .NETCoreApp,Version=v5.0
+2021-02-17T14:14:33.1389057+03:30:Tfm: netcoreapp5.0
+2021-02-17T14:14:33.1389134+03:30:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.Validation' in folder 'C:\Hossein\Packages\Test (TDD&BDD)\examples\14-FinalProject\InventoryManagement\tests\Inventory.Tests.E2E\bin\Debug\net5.0\SpecFlowPlusRunner\netcoreapp5.0'
+2021-02-17T14:14:33.1389153+03:30:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.Validation' to 'C:\Hossein\Packages\Test (TDD&BDD)\examples\14-FinalProject\InventoryManagement\tests\Inventory.Tests.E2E\bin\Debug\net5.0\SpecFlowPlusRunner\netcoreapp5.0\Microsoft.VisualStudio.Validation.dll'
+2021-02-17T14:14:33.1389639+03:30:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.Validation' to 'C:\Hossein\Packages\Test (TDD&BDD)\examples\14-FinalProject\InventoryManagement\tests\Inventory.Tests.E2E\bin\Debug\net5.0\SpecFlowPlusRunner\netcoreapp5.0\Microsoft.VisualStudio.Validation.exe'
+2021-02-17T14:14:33.1389928+03:30:[AssemblyCache] Could not resolve 'Microsoft.VisualStudio.Validation' in folder 'C:\Hossein\Packages\Test (TDD&BDD)\examples\14-FinalProject\InventoryManagement\tests\Inventory.Tests.E2E\bin\Debug\net5.0\SpecFlowPlusRunner\netcoreapp5.0'
+2021-02-17T14:14:33.1438483+03:30:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.Validation' in folder 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\5.0.2'
+2021-02-17T14:14:33.1438590+03:30:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.Validation' to 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\5.0.2\Microsoft.VisualStudio.Validation.dll'
+2021-02-17T14:14:33.1438931+03:30:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.Validation' to 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\5.0.2\Microsoft.VisualStudio.Validation.exe'
+2021-02-17T14:14:33.1439151+03:30:[AssemblyCache] Could not resolve 'Microsoft.VisualStudio.Validation' in folder 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\5.0.2'
+2021-02-17T14:14:33.1440096+03:30:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.Validation' in folder 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\5.0.2'
+2021-02-17T14:14:33.1440143+03:30:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.Validation' to 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\5.0.2\Microsoft.VisualStudio.Validation.dll'
+2021-02-17T14:14:33.1440416+03:30:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.Validation' to 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\5.0.2\Microsoft.VisualStudio.Validation.exe'
+2021-02-17T14:14:33.1440621+03:30:[AssemblyCache] Could not resolve 'Microsoft.VisualStudio.Validation' in folder 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\5.0.2'
+2021-02-17T14:14:33.1441594+03:30:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.Validation' in folder 'C:\Program Files\dotnet\shared\Microsoft.WindowsDesktop.App\5.0.2'
+2021-02-17T14:14:33.1441625+03:30:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.Validation' to 'C:\Program Files\dotnet\shared\Microsoft.WindowsDesktop.App\5.0.2\Microsoft.VisualStudio.Validation.dll'
+2021-02-17T14:14:33.1441937+03:30:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.Validation' to 'C:\Program Files\dotnet\shared\Microsoft.WindowsDesktop.App\5.0.2\Microsoft.VisualStudio.Validation.exe'
+2021-02-17T14:14:33.1442151+03:30:[AssemblyCache] Could not resolve 'Microsoft.VisualStudio.Validation' in folder 'C:\Program Files\dotnet\shared\Microsoft.WindowsDesktop.App\5.0.2'
+2021-02-17T14:14:33.1457860+03:30:Starting callback TCP Rpc server
+2021-02-17T14:14:33.1572279+03:30:Asynchronously starting background TCP Rpc Server on port 32768
+2021-02-17T14:14:33.1572603+03:30:Started callback TCP Rpc server on port 32768
+2021-02-17T14:14:33.1572621+03:30:Starting logger TCP Rpc server
+2021-02-17T14:14:33.1586014+03:30:Asynchronously starting background TCP Rpc Server on port 32769
+2021-02-17T14:14:33.1586166+03:30:Started logger TCP Rpc server on port 32769
+2021-02-17T14:14:33.2128752+03:30:Executing test executor at 'dotnet' 'exec "C:\Hossein\Packages\Test (TDD&BDD)\examples\14-FinalProject\InventoryManagement\tests\Inventory.Tests.E2E\bin\Debug\net5.0\SpecFlowPlusRunner\net5.0\TechTalk.SpecRun.Framework.Executor.anycpu.net5_0.dll" --remoteRunnerPid 7064 --uniqueId "2021-02-17T141432" --outputFolder "C:\Hossein\Packages\Test (TDD&BDD)\examples\14-FinalProject\InventoryManagement\TestResults" --callbackPort 32768 --loggerPort 32769' in 'C:\Hossein\Packages\Test (TDD&BDD)\examples\14-FinalProject\InventoryManagement\tests\Inventory.Tests.E2E\bin\Debug\net5.0'
+2021-02-17T14:14:33.2175889+03:30:Executor with PID 6208 has been started successfully.
+2021-02-17T14:14:33.2193771+03:30:Out of Process Executor 6208 started
+2021-02-17T14:14:33.2193883+03:30:Waiting for endpoint
+2021-02-17T14:14:33.4204418+03:30:Assembly resolving Microsoft.VisualStudio.Threading, Version=15.3.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+2021-02-17T14:14:33.4204551+03:30:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.Threading' from .deps.json file
+2021-02-17T14:14:33.4204633+03:30:[AssemblyCache] Could not resolve 'Microsoft.VisualStudio.Threading' from .deps.json
+2021-02-17T14:14:33.4204668+03:30:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.Threading' in folder 'C:\Hossein\Packages\Test (TDD&BDD)\examples\14-FinalProject\InventoryManagement\tests\Inventory.Tests.E2E\bin\Debug\net5.0'
+2021-02-17T14:14:33.4204679+03:30:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.Threading' to 'C:\Hossein\Packages\Test (TDD&BDD)\examples\14-FinalProject\InventoryManagement\tests\Inventory.Tests.E2E\bin\Debug\net5.0\Microsoft.VisualStudio.Threading.dll'
+2021-02-17T14:14:33.4204976+03:30:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.Threading' to 'C:\Hossein\Packages\Test (TDD&BDD)\examples\14-FinalProject\InventoryManagement\tests\Inventory.Tests.E2E\bin\Debug\net5.0\Microsoft.VisualStudio.Threading.exe'
+2021-02-17T14:14:33.4205186+03:30:[AssemblyCache] Could not resolve 'Microsoft.VisualStudio.Threading' in folder 'C:\Hossein\Packages\Test (TDD&BDD)\examples\14-FinalProject\InventoryManagement\tests\Inventory.Tests.E2E\bin\Debug\net5.0'
+2021-02-17T14:14:33.4205217+03:30:TargetFramework: .NETCoreApp,Version=v5.0
+2021-02-17T14:14:33.4205370+03:30:Tfm: netcoreapp5.0
+2021-02-17T14:14:33.4205393+03:30:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.Threading' in folder 'C:\Hossein\Packages\Test (TDD&BDD)\examples\14-FinalProject\InventoryManagement\tests\Inventory.Tests.E2E\bin\Debug\net5.0\SpecFlowPlusRunner\netcoreapp5.0'
+2021-02-17T14:14:33.4205407+03:30:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.Threading' to 'C:\Hossein\Packages\Test (TDD&BDD)\examples\14-FinalProject\InventoryManagement\tests\Inventory.Tests.E2E\bin\Debug\net5.0\SpecFlowPlusRunner\netcoreapp5.0\Microsoft.VisualStudio.Threading.dll'
+2021-02-17T14:14:33.4205829+03:30:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.Threading' to 'C:\Hossein\Packages\Test (TDD&BDD)\examples\14-FinalProject\InventoryManagement\tests\Inventory.Tests.E2E\bin\Debug\net5.0\SpecFlowPlusRunner\netcoreapp5.0\Microsoft.VisualStudio.Threading.exe'
+2021-02-17T14:14:33.4206087+03:30:[AssemblyCache] Could not resolve 'Microsoft.VisualStudio.Threading' in folder 'C:\Hossein\Packages\Test (TDD&BDD)\examples\14-FinalProject\InventoryManagement\tests\Inventory.Tests.E2E\bin\Debug\net5.0\SpecFlowPlusRunner\netcoreapp5.0'
+2021-02-17T14:14:33.4209457+03:30:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.Threading' in folder 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\5.0.2'
+2021-02-17T14:14:33.4209535+03:30:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.Threading' to 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\5.0.2\Microsoft.VisualStudio.Threading.dll'
+2021-02-17T14:14:33.4209818+03:30:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.Threading' to 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\5.0.2\Microsoft.VisualStudio.Threading.exe'
+2021-02-17T14:14:33.4210021+03:30:[AssemblyCache] Could not resolve 'Microsoft.VisualStudio.Threading' in folder 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\5.0.2'
+2021-02-17T14:14:33.4210830+03:30:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.Threading' in folder 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\5.0.2'
+2021-02-17T14:14:33.4210872+03:30:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.Threading' to 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\5.0.2\Microsoft.VisualStudio.Threading.dll'
+2021-02-17T14:14:33.4211139+03:30:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.Threading' to 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\5.0.2\Microsoft.VisualStudio.Threading.exe'
+2021-02-17T14:14:33.4211338+03:30:[AssemblyCache] Could not resolve 'Microsoft.VisualStudio.Threading' in folder 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\5.0.2'
+2021-02-17T14:14:33.4212229+03:30:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.Threading' in folder 'C:\Program Files\dotnet\shared\Microsoft.WindowsDesktop.App\5.0.2'
+2021-02-17T14:14:33.4212275+03:30:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.Threading' to 'C:\Program Files\dotnet\shared\Microsoft.WindowsDesktop.App\5.0.2\Microsoft.VisualStudio.Threading.dll'
+2021-02-17T14:14:33.4212576+03:30:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.Threading' to 'C:\Program Files\dotnet\shared\Microsoft.WindowsDesktop.App\5.0.2\Microsoft.VisualStudio.Threading.exe'
+2021-02-17T14:14:33.4212773+03:30:[AssemblyCache] Could not resolve 'Microsoft.VisualStudio.Threading' in folder 'C:\Program Files\dotnet\shared\Microsoft.WindowsDesktop.App\5.0.2'
+2021-02-17T14:14:33.5617539+03:30:Remote executor port received: 32770
+2021-02-17T14:14:33.5619881+03:30:Creating executor TCP client on port 32770
+2021-02-17T14:14:33.5623105+03:30:Created executor TCP client on port 32770
+2021-02-17T14:14:33.5623160+03:30:Connecting to remote executor TCP server
+2021-02-17T14:14:33.5629600+03:30:Connected remote executor TCP server
+2021-02-17T14:14:33.5631066+03:30:trying to connect to Out of Process Executor the 1 attempt
+2021-02-17T14:14:33.5631137+03:30:Connection to Out of Process Executor established in the 1 attempt
+2021-02-17T14:14:33.6647785+03:30:2021-02-17T14:14:33.6640282+03:30:OutOfProcessTestAssemblyExecutor: initialized for C:\Hossein\Packages\Test (TDD&BDD)\examples\14-FinalProject\InventoryManagement\tests\Inventory.Tests.E2E\bin\Debug\net5.0\Inventory.Tests.E2E.dll on test thread #0
+2021-02-17T14:14:33.6685236+03:30:Endpoint 6208 started
+2021-02-17T14:14:33.6805114+03:30:2021-02-17T14:14:33.6802206+03:30:OutOfProcessTestAssemblyExecutor: running tests...
+2021-02-17T14:14:33.7523247+03:30:2021-02-17T14:14:33.7520392+03:30:Assembly resolving TechTalk.SpecFlow, Version=3.6.0.0, Culture=neutral, PublicKeyToken=0778194805d6db41
+2021-02-17T14:14:33.7545670+03:30:2021-02-17T14:14:33.7543182+03:30:[AssemblyCache] Trying to resolve 'TechTalk.SpecFlow' from .deps.json file
+2021-02-17T14:14:33.7568317+03:30:2021-02-17T14:14:33.7565589+03:30:[AssemblyCache] Resolved 'TechTalk.SpecFlow' to 'C:\Users\Atria\.nuget\packages\specflow\3.6.23\lib\netstandard2.0\TechTalk.SpecFlow.dll'
+2021-02-17T14:14:33.8313493+03:30:2021-02-17T14:14:33.8310227+03:30:Thread#0:T:-> Loading plugin C:\Hossein\Packages\Test (TDD&BDD)\examples\14-FinalProject\InventoryManagement\tests\Inventory.Tests.E2E\bin\Debug\net5.0\Inventory.Tests.E2E.dll
+2021-02-17T14:14:33.8321916+03:30:2021-02-17T14:14:33.8319760+03:30:Thread#0:T:-> Missing [assembly:RuntimePlugin] attribute in Inventory.Tests.E2E, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null. Please check https://go.specflow.org/doc-plugins for details.
+2021-02-17T14:14:33.8326180+03:30:2021-02-17T14:14:33.8324105+03:30:Thread#0:T:-> Loading plugin C:\Hossein\Packages\Test (TDD&BDD)\examples\14-FinalProject\InventoryManagement\tests\Inventory.Tests.E2E\bin\Debug\net5.0\LivingDoc.SpecFlowPlugin.dll
+2021-02-17T14:14:33.8334589+03:30:2021-02-17T14:14:33.8331516+03:30:Assembly resolving TechTalk.SpecFlow, Version=3.6.0.0, Culture=neutral, PublicKeyToken=0778194805d6db41
+2021-02-17T14:14:33.8351840+03:30:2021-02-17T14:14:33.8349726+03:30:Assembly resolving LivingDoc.Dtos, Version=3.6.0.0, Culture=neutral, PublicKeyToken=null
+2021-02-17T14:14:33.8355166+03:30:2021-02-17T14:14:33.8353482+03:30:[AssemblyCache] Trying to resolve 'LivingDoc.Dtos' from .deps.json file
+2021-02-17T14:14:33.8360440+03:30:2021-02-17T14:14:33.8358226+03:30:[AssemblyCache] Resolved 'LivingDoc.Dtos' to 'C:\Users\Atria\.nuget\packages\specflow.plus.livingdocplugin\3.6.6\lib\netstandard2.0\LivingDoc.Dtos.dll'
+2021-02-17T14:14:33.8380927+03:30:2021-02-17T14:14:33.8378668+03:30:Thread#0:T:-> Loading plugin C:\Hossein\Packages\Test (TDD&BDD)\examples\14-FinalProject\InventoryManagement\tests\Inventory.Tests.E2E\bin\Debug\net5.0\SpecRun.Runtime.SpecFlowPlugin.dll
+2021-02-17T14:14:33.8387634+03:30:2021-02-17T14:14:33.8385505+03:30:Assembly resolving TechTalk.SpecFlow, Version=3.6.0.0, Culture=neutral, PublicKeyToken=0778194805d6db41
+2021-02-17T14:14:33.8447132+03:30:2021-02-17T14:14:33.8444373+03:30:Thread#0:T:-> Using default config
+2021-02-17T14:14:33.8523373+03:30:2021-02-17T14:14:33.8520053+03:30:Assembly resolving Cucumber.Messages, Version=6.0.1.0, Culture=neutral, PublicKeyToken=b10c5988214f940c
+2021-02-17T14:14:33.8527464+03:30:2021-02-17T14:14:33.8525333+03:30:[AssemblyCache] Trying to resolve 'Cucumber.Messages' from .deps.json file
+2021-02-17T14:14:33.8532523+03:30:2021-02-17T14:14:33.8530276+03:30:[AssemblyCache] Resolved 'Cucumber.Messages' to 'C:\Users\Atria\.nuget\packages\cucumber.messages\6.0.1\lib\netstandard2.0\Cucumber.Messages.dll'
+2021-02-17T14:14:33.8540805+03:30:2021-02-17T14:14:33.8538759+03:30:Assembly resolving Google.Protobuf, Version=3.7.0.0, Culture=neutral, PublicKeyToken=a7d26565bac4d604
+2021-02-17T14:14:33.8544142+03:30:2021-02-17T14:14:33.8542476+03:30:[AssemblyCache] Trying to resolve 'Google.Protobuf' from .deps.json file
+2021-02-17T14:14:33.8549087+03:30:2021-02-17T14:14:33.8546922+03:30:[AssemblyCache] Resolved 'Google.Protobuf' to 'C:\Users\Atria\.nuget\packages\google.protobuf\3.7.0\lib\netstandard1.0\Google.Protobuf.dll'
+2021-02-17T14:14:33.8618247+03:30:2021-02-17T14:14:33.8615695+03:30:Assembly resolving Microsoft.VisualStudio.TestPlatform.ObjectModel, Version=15.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+2021-02-17T14:14:33.8621735+03:30:2021-02-17T14:14:33.8620011+03:30:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.TestPlatform.ObjectModel' from .deps.json file
+2021-02-17T14:14:33.8627154+03:30:2021-02-17T14:14:33.8624899+03:30:[AssemblyCache] Resolved 'Microsoft.VisualStudio.TestPlatform.ObjectModel' to 'C:\Users\Atria\.nuget\packages\microsoft.testplatform.objectmodel\16.5.0\lib\netstandard2.0\Microsoft.VisualStudio.TestPlatform.ObjectModel.dll'
+2021-02-17T14:14:33.8781314+03:30:2021-02-17T14:14:33.8778239+03:30:Thread#0:T:-> error: The binding methods for before/after feature and before/after test run events must be static! Inventory.Tests.E2E:Inventory.Tests.E2E.Hooks.Hooks1.BeforeScenario() (0.0s)
+2021-02-17T14:14:33.8938105+03:30:2021-02-17T14:14:33.8934041+03:30:OutOfProcessTestAssemblyExecutor: RunTest error: TechTalk.SpecFlow.BindingException: The binding methods for before/after feature and before/after test run events must be static! Inventory.Tests.E2E:Inventory.Tests.E2E.Hooks.Hooks1.BeforeScenario()
+   at TechTalk.SpecFlow.ErrorHandling.ErrorProvider.GetNonStaticEventError(IBindingMethod method) in D:\a\1\s\TechTalk.SpecFlow\ErrorHandling\ErrorProvider.cs:line 128
+   at TechTalk.SpecFlow.Bindings.Discovery.RuntimeBindingSourceProcessor.ValidateHook(BindingSourceMethod bindingSourceMethod, BindingSourceAttribute hookAttribute, HookType hookType) in D:\a\1\s\TechTalk.SpecFlow\Bindings\Discovery\RuntimeBindingSourceProcessor.cs:line 54
+   at TechTalk.SpecFlow.Bindings.Discovery.BindingSourceProcessor.ProcessHookAttribute(BindingSourceMethod bindingSourceMethod, BindingSourceAttribute hookAttribute, BindingScope scope) in D:\a\1\s\TechTalk.SpecFlow\Bindings\Discovery\BindingSourceProcessor.cs:line 168
+   at TechTalk.SpecFlow.Bindings.Discovery.BindingSourceProcessor.<>c__DisplayClass21_0.<ProcessHookAttribute>b__1(BindingScope scope) in D:\a\1\s\TechTalk.SpecFlow\Bindings\Discovery\BindingSourceProcessor.cs:line 149
+   at TechTalk.SpecFlow.Bindings.Discovery.BindingSourceProcessor.ProcessHookAttribute(BindingSourceMethod bindingSourceMethod, BindingScope[] methodScopes, BindingSourceAttribute hookAttribute) in D:\a\1\s\TechTalk.SpecFlow\Bindings\Discovery\BindingSourceProcessor.cs:line 149
+   at TechTalk.SpecFlow.Bindings.Discovery.BindingSourceProcessor.ProcessHooks(BindingSourceMethod bindingSourceMethod, BindingScope[] methodScopes) in D:\a\1\s\TechTalk.SpecFlow\Bindings\Discovery\BindingSourceProcessor.cs:line 123
+   at TechTalk.SpecFlow.Bindings.Discovery.BindingSourceProcessor.ProcessMethod(BindingSourceMethod bindingSourceMethod) in D:\a\1\s\TechTalk.SpecFlow\Bindings\Discovery\BindingSourceProcessor.cs:line 107
+   at TechTalk.SpecFlow.Bindings.Discovery.RuntimeBindingRegistryBuilder.BuildBindingsFromType(Type type) in D:\a\1\s\TechTalk.SpecFlow\Bindings\Discovery\RuntimeBindingRegistryBuilder.cs:line 49
+   at TechTalk.SpecFlow.Bindings.Discovery.RuntimeBindingRegistryBuilder.BuildBindingsFromAssembly(Assembly assembly) in D:\a\1\s\TechTalk.SpecFlow\Bindings\Discovery\RuntimeBindingRegistryBuilder.cs:line 25
+   at TechTalk.SpecFlow.TestRunnerManager.BuildBindingRegistry(IEnumerable`1 bindingAssemblies) in D:\a\1\s\TechTalk.SpecFlow\TestRunnerManager.cs:line 94
+   at TechTalk.SpecFlow.TestRunnerManager.InitializeBindingRegistry(ITestRunner testRunner) in D:\a\1\s\TechTalk.SpecFlow\TestRunnerManager.cs:line 73
+   at TechTalk.SpecFlow.TestRunnerManager.CreateTestRunner(Int32 threadId) in D:\a\1\s\TechTalk.SpecFlow\TestRunnerManager.cs:line 62
+   at TechTalk.SpecFlow.TestRunnerManager.GetTestRunnerWithoutExceptionHandling(Int32 threadId) in D:\a\1\s\TechTalk.SpecFlow\TestRunnerManager.cs:line 155
+   at TechTalk.SpecFlow.TestRunnerManager.GetTestRunner(Int32 threadId) in D:\a\1\s\TechTalk.SpecFlow\TestRunnerManager.cs:line 136
+   at TechTalk.SpecFlow.TestRunnerManager.OnTestRunStart(Assembly testAssembly, IContainerBuilder containerBuilder) in D:\a\1\s\TechTalk.SpecFlow\TestRunnerManager.cs:line 232
+   at Inventory_Tests_E2E_SpecFlowPlusRunnerAssemblyHooks.AssemblyInitialize() in C:\Hossein\Packages\Test (TDD&BDD)\examples\14-FinalProject\InventoryManagement\tests\Inventory.Tests.E2E\obj\Debug\net5.0\SpecFlow.Plus.Runner.AssemblyHooks.cs:line 12
+   at TechTalk.SpecRun.Framework.TaskExecutors.StaticOrInstanceMethodExecutor.ExecuteInternal(ITestThreadExecutionContext testThreadExecutionContext)
+   at TechTalk.SpecRun.Framework.TaskExecutors.StaticOrInstanceMethodExecutor.Execute(ITestThreadExecutionContext testThreadExecutionContext)
+   at TechTalk.SpecRun.Framework.TestAssemblyExecutor.RunAssemblyInitializeExecutors(ITestAssemblyExecutorsProvider testAssemblyExecutorsProvider, ITestThreadExecutionContext testThreadExecutionContext)
+   at TechTalk.SpecRun.Framework.TestAssemblyExecutor.RunTests(ITestAssemblyExecutorState executorState, ITestAssemblyExecutorsProvider testAssemblyExecutorsProvider, ITestThreadExecutionContext testThreadExecutionContext)
+   at TechTalk.SpecRun.Framework.TestAssemblyExecutor.RunTests(TestThreadState testThreadState)
+   at TechTalk.SpecRun.Framework.Execution.InProcess.InProcAppDomainTestAssemblyExecutor.RunTests(TestThreadState testThreadState)
+   at TechTalk.SpecRun.Framework.Execution.OutOfProcess.OutOfProcessTestAssemblyExecutor.RunTests(TestThreadState testThreadState)
+2021-02-17T14:14:33.8944076+03:30:2021-02-17T14:14:33.8941320+03:30:OutOfProcessTestAssemblyExecutorReceiver - Error at RunTests - TechTalk.SpecFlow.BindingException: The binding methods for before/after feature and before/after test run events must be static! Inventory.Tests.E2E:Inventory.Tests.E2E.Hooks.Hooks1.BeforeScenario()
+   at TechTalk.SpecFlow.ErrorHandling.ErrorProvider.GetNonStaticEventError(IBindingMethod method) in D:\a\1\s\TechTalk.SpecFlow\ErrorHandling\ErrorProvider.cs:line 128
+   at TechTalk.SpecFlow.Bindings.Discovery.RuntimeBindingSourceProcessor.ValidateHook(BindingSourceMethod bindingSourceMethod, BindingSourceAttribute hookAttribute, HookType hookType) in D:\a\1\s\TechTalk.SpecFlow\Bindings\Discovery\RuntimeBindingSourceProcessor.cs:line 54
+   at TechTalk.SpecFlow.Bindings.Discovery.BindingSourceProcessor.ProcessHookAttribute(BindingSourceMethod bindingSourceMethod, BindingSourceAttribute hookAttribute, BindingScope scope) in D:\a\1\s\TechTalk.SpecFlow\Bindings\Discovery\BindingSourceProcessor.cs:line 168
+   at TechTalk.SpecFlow.Bindings.Discovery.BindingSourceProcessor.<>c__DisplayClass21_0.<ProcessHookAttribute>b__1(BindingScope scope) in D:\a\1\s\TechTalk.SpecFlow\Bindings\Discovery\BindingSourceProcessor.cs:line 149
+   at TechTalk.SpecFlow.Bindings.Discovery.BindingSourceProcessor.ProcessHookAttribute(BindingSourceMethod bindingSourceMethod, BindingScope[] methodScopes, BindingSourceAttribute hookAttribute) in D:\a\1\s\TechTalk.SpecFlow\Bindings\Discovery\BindingSourceProcessor.cs:line 149
+   at TechTalk.SpecFlow.Bindings.Discovery.BindingSourceProcessor.ProcessHooks(BindingSourceMethod bindingSourceMethod, BindingScope[] methodScopes) in D:\a\1\s\TechTalk.SpecFlow\Bindings\Discovery\BindingSourceProcessor.cs:line 123
+   at TechTalk.SpecFlow.Bindings.Discovery.BindingSourceProcessor.ProcessMethod(BindingSourceMethod bindingSourceMethod) in D:\a\1\s\TechTalk.SpecFlow\Bindings\Discovery\BindingSourceProcessor.cs:line 107
+   at TechTalk.SpecFlow.Bindings.Discovery.RuntimeBindingRegistryBuilder.BuildBindingsFromType(Type type) in D:\a\1\s\TechTalk.SpecFlow\Bindings\Discovery\RuntimeBindingRegistryBuilder.cs:line 49
+   at TechTalk.SpecFlow.Bindings.Discovery.RuntimeBindingRegistryBuilder.BuildBindingsFromAssembly(Assembly assembly) in D:\a\1\s\TechTalk.SpecFlow\Bindings\Discovery\RuntimeBindingRegistryBuilder.cs:line 25
+   at TechTalk.SpecFlow.TestRunnerManager.BuildBindingRegistry(IEnumerable`1 bindingAssemblies) in D:\a\1\s\TechTalk.SpecFlow\TestRunnerManager.cs:line 94
+   at TechTalk.SpecFlow.TestRunnerManager.InitializeBindingRegistry(ITestRunner testRunner) in D:\a\1\s\TechTalk.SpecFlow\TestRunnerManager.cs:line 73
+   at TechTalk.SpecFlow.TestRunnerManager.CreateTestRunner(Int32 threadId) in D:\a\1\s\TechTalk.SpecFlow\TestRunnerManager.cs:line 62
+   at TechTalk.SpecFlow.TestRunnerManager.GetTestRunnerWithoutExceptionHandling(Int32 threadId) in D:\a\1\s\TechTalk.SpecFlow\TestRunnerManager.cs:line 155
+   at TechTalk.SpecFlow.TestRunnerManager.GetTestRunner(Int32 threadId) in D:\a\1\s\TechTalk.SpecFlow\TestRunnerManager.cs:line 136
+   at TechTalk.SpecFlow.TestRunnerManager.OnTestRunStart(Assembly testAssembly, IContainerBuilder containerBuilder) in D:\a\1\s\TechTalk.SpecFlow\TestRunnerManager.cs:line 232
+   at Inventory_Tests_E2E_SpecFlowPlusRunnerAssemblyHooks.AssemblyInitialize() in C:\Hossein\Packages\Test (TDD&BDD)\examples\14-FinalProject\InventoryManagement\tests\Inventory.Tests.E2E\obj\Debug\net5.0\SpecFlow.Plus.Runner.AssemblyHooks.cs:line 12
+   at TechTalk.SpecRun.Framework.TaskExecutors.StaticOrInstanceMethodExecutor.ExecuteInternal(ITestThreadExecutionContext testThreadExecutionContext)
+   at TechTalk.SpecRun.Framework.TaskExecutors.StaticOrInstanceMethodExecutor.Execute(ITestThreadExecutionContext testThreadExecutionContext)
+   at TechTalk.SpecRun.Framework.TestAssemblyExecutor.RunAssemblyInitializeExecutors(ITestAssemblyExecutorsProvider testAssemblyExecutorsProvider, ITestThreadExecutionContext testThreadExecutionContext)
+   at TechTalk.SpecRun.Framework.TestAssemblyExecutor.RunTests(ITestAssemblyExecutorState executorState, ITestAssemblyExecutorsProvider testAssemblyExecutorsProvider, ITestThreadExecutionContext testThreadExecutionContext)
+   at TechTalk.SpecRun.Framework.TestAssemblyExecutor.RunTests(TestThreadState testThreadState)
+   at TechTalk.SpecRun.Framework.Execution.InProcess.InProcAppDomainTestAssemblyExecutor.RunTests(TestThreadState testThreadState)
+   at TechTalk.SpecRun.Framework.Execution.OutOfProcess.OutOfProcessTestAssemblyExecutor.RunTests(TestThreadState testThreadState)
+   at TechTalk.SpecRun.Framework.Execution.OutOfProcess.OutOfProcessTestAssemblyExecutorReceiver.RunTests(TestThreadState testThreadState)
+2021-02-17T14:14:33.9160092+03:30:test thread #0 error: StreamJsonRpc.RemoteInvocationException: The binding methods for before/after feature and before/after test run events must be static! Inventory.Tests.E2E:Inventory.Tests.E2E.Hooks.Hooks1.BeforeScenario()
+   at StreamJsonRpc.JsonRpc.InvokeCoreAsync[TResult](Nullable`1 id, String targetName, IReadOnlyList`1 arguments, CancellationToken cancellationToken, Boolean isParameterObject)
+   at TechTalk.SpecFlow.Plus.RPC.TcpRpcClient.Invoke[T](String methodName, Object[] parameters)
+   at TechTalk.SpecFlow.Plus.RPC.AsyncHelper.RunSync[TResult](Func`1 func)
+   at TechTalk.SpecRun.Framework.Execution.OutOfProc.StreamJsonRPC.OutOfProcessTestAssemblyExecutorClient.RunTests(TestThreadState testThreadState)
+   at TechTalk.SpecRun.Framework.Execution.OutOfProc.StreamJsonRPC.RemoteExecutor.RunTests(TestThreadState testThreadState)
+   at TechTalk.SpecRun.Framework.Execution.OutOfProc.StreamJsonRPC.OutOfProcessTestAssemblyExecutorHost.RunTests(TestThreadState testThreadState)
+   at TechTalk.SpecRun.Framework.TestThread.RunNonEmptyTestSuite(CancellationToken cancellationToken, TestThreadState testThreadState)
+   at TechTalk.SpecRun.Framework.TestThread.Run(ITestExecutionManager executionManagerForRun, CancellationToken cancellationToken)
+   at TechTalk.SpecRun.Framework.AsyncTestThreadRunner.RunSync(TestExecutionManager executionManager, CancellationToken cancellationToken)
+2021-02-17T14:14:33.9169942+03:30:test thread error: TechTalk.SpecRun.Framework.SpecRunException: At least one test thread aborted.
+ ---> StreamJsonRpc.RemoteInvocationException: The binding methods for before/after feature and before/after test run events must be static! Inventory.Tests.E2E:Inventory.Tests.E2E.Hooks.Hooks1.BeforeScenario()
+   at StreamJsonRpc.JsonRpc.InvokeCoreAsync[TResult](Nullable`1 id, String targetName, IReadOnlyList`1 arguments, CancellationToken cancellationToken, Boolean isParameterObject)
+   at TechTalk.SpecFlow.Plus.RPC.TcpRpcClient.Invoke[T](String methodName, Object[] parameters)
+   at TechTalk.SpecFlow.Plus.RPC.AsyncHelper.RunSync[TResult](Func`1 func)
+   at TechTalk.SpecRun.Framework.Execution.OutOfProc.StreamJsonRPC.OutOfProcessTestAssemblyExecutorClient.RunTests(TestThreadState testThreadState)
+   at TechTalk.SpecRun.Framework.Execution.OutOfProc.StreamJsonRPC.RemoteExecutor.RunTests(TestThreadState testThreadState)
+   at TechTalk.SpecRun.Framework.Execution.OutOfProc.StreamJsonRPC.OutOfProcessTestAssemblyExecutorHost.RunTests(TestThreadState testThreadState)
+   at TechTalk.SpecRun.Framework.TestThread.RunNonEmptyTestSuite(CancellationToken cancellationToken, TestThreadState testThreadState)
+   at TechTalk.SpecRun.Framework.TestThread.Run(ITestExecutionManager executionManagerForRun, CancellationToken cancellationToken)
+   at TechTalk.SpecRun.Framework.AsyncTestThreadRunner.RunSync(TestExecutionManager executionManager, CancellationToken cancellationToken)
+   --- End of inner exception stack trace ---
+2021-02-17T14:14:33.9218224+03:30:Thread#-1: Test #4/0 is started on thread #-1
+2021-02-17T14:14:33.9230936+03:30:Thread#-1: Test #4/0 is finished on thread #-1 as Skipped within 0.0004429 seconds
+2021-02-17T14:14:33.9247199+03:30:Thread#-1:Scheduler: get next test for thread -1
+2021-02-17T14:14:33.9247372+03:30:Thread#:Scheduler: at the end of normal test queue
+2021-02-17T14:14:33.9247391+03:30:Thread#-1:Scheduler: enumerator for thread is at end
+2021-02-17T14:14:33.9321163+03:30;Thread#12;Info;test run finished
+2021-02-17T14:14:33.9321941+03:30;Thread#12;Info;publishing test results
+2021-02-17T14:14:33.9323033+03:30;Thread#12;Info;Not publishing results.
+2021-02-17T14:14:33.9323777+03:30;Thread#12;Info;test results published
+2021-02-17T14:14:33.9324104+03:30;Thread#12;Info;generating reports
+2021-02-17T14:14:34.0178217+03:30;Thread#12;Error;Newtonsoft.Json.JsonSerializationException thrown during serialization: Newtonsoft.Json.JsonSerializationException: Self referencing loop detected for property 'ManifestModule' with type 'System.Reflection.RuntimeModule'. Path 'Summary.FrameworkErrorException.InnerException.TargetSite.Module.Assembly'.
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalWriter.CheckForCircularReference(JsonWriter writer, Object value, JsonProperty property, JsonContract contract, JsonContainerContract containerContract, JsonProperty containerProperty)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalWriter.CalculatePropertyValues(JsonWriter writer, Object value, JsonContainerContract contract, JsonProperty member, JsonProperty property, JsonContract& memberContract, Object& memberValue)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalWriter.SerializeObject(JsonWriter writer, Object value, JsonObjectContract contract, JsonProperty member, JsonContainerContract collectionContract, JsonProperty containerProperty)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalWriter.SerializeValue(JsonWriter writer, Object value, JsonContract valueContract, JsonProperty member, JsonContainerContract containerContract, JsonProperty containerProperty)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalWriter.SerializeObject(JsonWriter writer, Object value, JsonObjectContract contract, JsonProperty member, JsonContainerContract collectionContract, JsonProperty containerProperty)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalWriter.SerializeValue(JsonWriter writer, Object value, JsonContract valueContract, JsonProperty member, JsonContainerContract containerContract, JsonProperty containerProperty)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalWriter.SerializeObject(JsonWriter writer, Object value, JsonObjectContract contract, JsonProperty member, JsonContainerContract collectionContract, JsonProperty containerProperty)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalWriter.SerializeValue(JsonWriter writer, Object value, JsonContract valueContract, JsonProperty member, JsonContainerContract containerContract, JsonProperty containerProperty)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalWriter.SerializeObject(JsonWriter writer, Object value, JsonObjectContract contract, JsonProperty member, JsonContainerContract collectionContract, JsonProperty containerProperty)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalWriter.SerializeValue(JsonWriter writer, Object value, JsonContract valueContract, JsonProperty member, JsonContainerContract containerContract, JsonProperty containerProperty)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalWriter.SerializeObject(JsonWriter writer, Object value, JsonObjectContract contract, JsonProperty member, JsonContainerContract collectionContract, JsonProperty containerProperty)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalWriter.SerializeValue(JsonWriter writer, Object value, JsonContract valueContract, JsonProperty member, JsonContainerContract containerContract, JsonProperty containerProperty)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalWriter.SerializeObject(JsonWriter writer, Object value, JsonObjectContract contract, JsonProperty member, JsonContainerContract collectionContract, JsonProperty containerProperty)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalWriter.SerializeValue(JsonWriter writer, Object value, JsonContract valueContract, JsonProperty member, JsonContainerContract containerContract, JsonProperty containerProperty)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalWriter.SerializeObject(JsonWriter writer, Object value, JsonObjectContract contract, JsonProperty member, JsonContainerContract collectionContract, JsonProperty containerProperty)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalWriter.SerializeValue(JsonWriter writer, Object value, JsonContract valueContract, JsonProperty member, JsonContainerContract containerContract, JsonProperty containerProperty)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalWriter.Serialize(JsonWriter jsonWriter, Object value, Type objectType)
+   at Newtonsoft.Json.JsonSerializer.SerializeInternal(JsonWriter jsonWriter, Object value, Type objectType)
+   at Newtonsoft.Json.JsonSerializer.Serialize(JsonWriter jsonWriter, Object value)
+   at Newtonsoft.Json.JsonSerializer.Serialize(TextWriter textWriter, Object value)
+   at TechTalk.SpecRun.Framework.Services.JsonNetSerializer.Serialize[T](T value, FSharpOption`1 target)
+2021-02-17T14:14:34.0180289+03:30;Thread#12;Error;Failed writing reporting data to file "C:\Users\Atria\AppData\Local\Temp\tmpD5C1.tmp".
+2021-02-17T14:14:34.0237106+03:30;Thread#12;Info;Failed generating reports
+2021-02-17T14:14:34.0285051+03:30:Total: 1
+2021-02-17T14:14:34.0298086+03:30:Succeeded: 0
+2021-02-17T14:14:34.0300317+03:30:Ignored: 0
+2021-02-17T14:14:34.0302225+03:30:Pending: 0
+2021-02-17T14:14:34.0302278+03:30:Skipped: 1
+2021-02-17T14:14:34.0304136+03:30:Failed: 0
+2021-02-17T14:14:34.0310557+03:30;VSTestExecutionThread;Info;Adding attachments to VSTest
+========== End of log file ==========

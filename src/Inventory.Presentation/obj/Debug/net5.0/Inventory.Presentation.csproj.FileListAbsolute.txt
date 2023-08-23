@@ -1,0 +1,217 @@
+C:/Hossein/Packages/Test (TDD&BDD)/examples/14-FinalProject/InventoryManagement/src/Inventory.Presentation/bin/Debug/net5.0/appsettings.Development.json
+C:/Hossein/Packages/Test (TDD&BDD)/examples/14-FinalProject/InventoryManagement/src/Inventory.Presentation/bin/Debug/net5.0/appsettings.json
+C:/Hossein/Packages/Test (TDD&BDD)/examples/14-FinalProject/InventoryManagement/src/Inventory.Presentation/bin/Debug/net5.0/Inventory.Presentation.exe
+C:/Hossein/Packages/Test (TDD&BDD)/examples/14-FinalProject/InventoryManagement/src/Inventory.Presentation/bin/Debug/net5.0/Inventory.Presentation.deps.json
+C:/Hossein/Packages/Test (TDD&BDD)/examples/14-FinalProject/InventoryManagement/src/Inventory.Presentation/bin/Debug/net5.0/Inventory.Presentation.runtimeconfig.json
+C:/Hossein/Packages/Test (TDD&BDD)/examples/14-FinalProject/InventoryManagement/src/Inventory.Presentation/bin/Debug/net5.0/Inventory.Presentation.runtimeconfig.dev.json
+C:/Hossein/Packages/Test (TDD&BDD)/examples/14-FinalProject/InventoryManagement/src/Inventory.Presentation/bin/Debug/net5.0/Inventory.Presentation.dll
+C:/Hossein/Packages/Test (TDD&BDD)/examples/14-FinalProject/InventoryManagement/src/Inventory.Presentation/bin/Debug/net5.0/ref/Inventory.Presentation.dll
+C:/Hossein/Packages/Test (TDD&BDD)/examples/14-FinalProject/InventoryManagement/src/Inventory.Presentation/bin/Debug/net5.0/Inventory.Presentation.pdb
+C:/Hossein/Packages/Test (TDD&BDD)/examples/14-FinalProject/InventoryManagement/src/Inventory.Presentation/bin/Debug/net5.0/Humanizer.dll
+C:/Hossein/Packages/Test (TDD&BDD)/examples/14-FinalProject/InventoryManagement/src/Inventory.Presentation/bin/Debug/net5.0/Microsoft.Data.SqlClient.dll
+C:/Hossein/Packages/Test (TDD&BDD)/examples/14-FinalProject/InventoryManagement/src/Inventory.Presentation/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.dll
+C:/Hossein/Packages/Test (TDD&BDD)/examples/14-FinalProject/InventoryManagement/src/Inventory.Presentation/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+C:/Hossein/Packages/Test (TDD&BDD)/examples/14-FinalProject/InventoryManagement/src/Inventory.Presentation/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.Design.dll
+C:/Hossein/Packages/Test (TDD&BDD)/examples/14-FinalProject/InventoryManagement/src/Inventory.Presentation/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.Relational.dll
+C:/Hossein/Packages/Test (TDD&BDD)/examples/14-FinalProject/InventoryManagement/src/Inventory.Presentation/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.SqlServer.dll
+C:/Hossein/Packages/Test (TDD&BDD)/examples/14-FinalProject/InventoryManagement/src/Inventory.Presentation/bin/Debug/net5.0/Microsoft.Extensions.DependencyInjection.dll
+C:/Hossein/Packages/Test (TDD&BDD)/examples/14-FinalProject/InventoryManagement/src/Inventory.Presentation/bin/Debug/net5.0/Microsoft.Identity.Client.dll
+C:/Hossein/Packages/Test (TDD&BDD)/examples/14-FinalProject/InventoryManagement/src/Inventory.Presentation/bin/Debug/net5.0/Microsoft.IdentityModel.JsonWebTokens.dll
+C:/Hossein/Packages/Test (TDD&BDD)/examples/14-FinalProject/InventoryManagement/src/Inventory.Presentation/bin/Debug/net5.0/Microsoft.IdentityModel.Logging.dll
+C:/Hossein/Packages/Test (TDD&BDD)/examples/14-FinalProject/InventoryManagement/src/Inventory.Presentation/bin/Debug/net5.0/Microsoft.IdentityModel.Protocols.dll
+C:/Hossein/Packages/Test (TDD&BDD)/examples/14-FinalProject/InventoryManagement/src/Inventory.Presentation/bin/Debug/net5.0/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:/Hossein/Packages/Test (TDD&BDD)/examples/14-FinalProject/InventoryManagement/src/Inventory.Presentation/bin/Debug/net5.0/Microsoft.IdentityModel.Tokens.dll
+C:/Hossein/Packages/Test (TDD&BDD)/examples/14-FinalProject/InventoryManagement/src/Inventory.Presentation/bin/Debug/net5.0/Microsoft.OpenApi.dll
+C:/Hossein/Packages/Test (TDD&BDD)/examples/14-FinalProject/InventoryManagement/src/Inventory.Presentation/bin/Debug/net5.0/Newtonsoft.Json.dll
+C:/Hossein/Packages/Test (TDD&BDD)/examples/14-FinalProject/InventoryManagement/src/Inventory.Presentation/bin/Debug/net5.0/Swashbuckle.AspNetCore.Swagger.dll
+C:/Hossein/Packages/Test (TDD&BDD)/examples/14-FinalProject/InventoryManagement/src/Inventory.Presentation/bin/Debug/net5.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+C:/Hossein/Packages/Test (TDD&BDD)/examples/14-FinalProject/InventoryManagement/src/Inventory.Presentation/bin/Debug/net5.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+C:/Hossein/Packages/Test (TDD&BDD)/examples/14-FinalProject/InventoryManagement/src/Inventory.Presentation/bin/Debug/net5.0/System.Configuration.ConfigurationManager.dll
+C:/Hossein/Packages/Test (TDD&BDD)/examples/14-FinalProject/InventoryManagement/src/Inventory.Presentation/bin/Debug/net5.0/System.Diagnostics.DiagnosticSource.dll
+C:/Hossein/Packages/Test (TDD&BDD)/examples/14-FinalProject/InventoryManagement/src/Inventory.Presentation/bin/Debug/net5.0/System.IdentityModel.Tokens.Jwt.dll
+C:/Hossein/Packages/Test (TDD&BDD)/examples/14-FinalProject/InventoryManagement/src/Inventory.Presentation/bin/Debug/net5.0/System.Runtime.Caching.dll
+C:/Hossein/Packages/Test (TDD&BDD)/examples/14-FinalProject/InventoryManagement/src/Inventory.Presentation/bin/Debug/net5.0/System.Security.Cryptography.ProtectedData.dll
+C:/Hossein/Packages/Test (TDD&BDD)/examples/14-FinalProject/InventoryManagement/src/Inventory.Presentation/bin/Debug/net5.0/runtimes/unix/lib/netcoreapp3.1/Microsoft.Data.SqlClient.dll
+C:/Hossein/Packages/Test (TDD&BDD)/examples/14-FinalProject/InventoryManagement/src/Inventory.Presentation/bin/Debug/net5.0/runtimes/win/lib/netcoreapp3.1/Microsoft.Data.SqlClient.dll
+C:/Hossein/Packages/Test (TDD&BDD)/examples/14-FinalProject/InventoryManagement/src/Inventory.Presentation/bin/Debug/net5.0/runtimes/win-arm/native/Microsoft.Data.SqlClient.SNI.dll
+C:/Hossein/Packages/Test (TDD&BDD)/examples/14-FinalProject/InventoryManagement/src/Inventory.Presentation/bin/Debug/net5.0/runtimes/win-arm/native/Microsoft.Data.SqlClient.SNI.pdb
+C:/Hossein/Packages/Test (TDD&BDD)/examples/14-FinalProject/InventoryManagement/src/Inventory.Presentation/bin/Debug/net5.0/runtimes/win-arm64/native/Microsoft.Data.SqlClient.SNI.dll
+C:/Hossein/Packages/Test (TDD&BDD)/examples/14-FinalProject/InventoryManagement/src/Inventory.Presentation/bin/Debug/net5.0/runtimes/win-arm64/native/Microsoft.Data.SqlClient.SNI.pdb
+C:/Hossein/Packages/Test (TDD&BDD)/examples/14-FinalProject/InventoryManagement/src/Inventory.Presentation/bin/Debug/net5.0/runtimes/win-x64/native/Microsoft.Data.SqlClient.SNI.dll
+C:/Hossein/Packages/Test (TDD&BDD)/examples/14-FinalProject/InventoryManagement/src/Inventory.Presentation/bin/Debug/net5.0/runtimes/win-x64/native/Microsoft.Data.SqlClient.SNI.pdb
+C:/Hossein/Packages/Test (TDD&BDD)/examples/14-FinalProject/InventoryManagement/src/Inventory.Presentation/bin/Debug/net5.0/runtimes/win-x86/native/Microsoft.Data.SqlClient.SNI.dll
+C:/Hossein/Packages/Test (TDD&BDD)/examples/14-FinalProject/InventoryManagement/src/Inventory.Presentation/bin/Debug/net5.0/runtimes/win-x86/native/Microsoft.Data.SqlClient.SNI.pdb
+C:/Hossein/Packages/Test (TDD&BDD)/examples/14-FinalProject/InventoryManagement/src/Inventory.Presentation/bin/Debug/net5.0/runtimes/win/lib/netstandard2.0/System.Runtime.Caching.dll
+C:/Hossein/Packages/Test (TDD&BDD)/examples/14-FinalProject/InventoryManagement/src/Inventory.Presentation/bin/Debug/net5.0/runtimes/win/lib/netstandard2.0/System.Security.Cryptography.ProtectedData.dll
+C:/Hossein/Packages/Test (TDD&BDD)/examples/14-FinalProject/InventoryManagement/src/Inventory.Presentation/bin/Debug/net5.0/Inventory.Application.Contract.dll
+C:/Hossein/Packages/Test (TDD&BDD)/examples/14-FinalProject/InventoryManagement/src/Inventory.Presentation/bin/Debug/net5.0/Inventory.Application.dll
+C:/Hossein/Packages/Test (TDD&BDD)/examples/14-FinalProject/InventoryManagement/src/Inventory.Presentation/bin/Debug/net5.0/Inventory.Domain.dll
+C:/Hossein/Packages/Test (TDD&BDD)/examples/14-FinalProject/InventoryManagement/src/Inventory.Presentation/bin/Debug/net5.0/Inventory.Infrastructure.dll
+C:/Hossein/Packages/Test (TDD&BDD)/examples/14-FinalProject/InventoryManagement/src/Inventory.Presentation/bin/Debug/net5.0/Inventory.Application.pdb
+C:/Hossein/Packages/Test (TDD&BDD)/examples/14-FinalProject/InventoryManagement/src/Inventory.Presentation/bin/Debug/net5.0/Inventory.Infrastructure.pdb
+C:/Hossein/Packages/Test (TDD&BDD)/examples/14-FinalProject/InventoryManagement/src/Inventory.Presentation/bin/Debug/net5.0/Inventory.Application.Contract.pdb
+C:/Hossein/Packages/Test (TDD&BDD)/examples/14-FinalProject/InventoryManagement/src/Inventory.Presentation/bin/Debug/net5.0/Inventory.Domain.pdb
+C:/Hossein/Packages/Test (TDD&BDD)/examples/14-FinalProject/InventoryManagement/src/Inventory.Presentation/obj/Debug/net5.0/Inventory.Presentation.csprojAssemblyReference.cache
+C:/Hossein/Packages/Test (TDD&BDD)/examples/14-FinalProject/InventoryManagement/src/Inventory.Presentation/obj/Debug/net5.0/Inventory.Presentation.GeneratedMSBuildEditorConfig.editorconfig
+C:/Hossein/Packages/Test (TDD&BDD)/examples/14-FinalProject/InventoryManagement/src/Inventory.Presentation/obj/Debug/net5.0/Inventory.Presentation.AssemblyInfoInputs.cache
+C:/Hossein/Packages/Test (TDD&BDD)/examples/14-FinalProject/InventoryManagement/src/Inventory.Presentation/obj/Debug/net5.0/Inventory.Presentation.AssemblyInfo.cs
+C:/Hossein/Packages/Test (TDD&BDD)/examples/14-FinalProject/InventoryManagement/src/Inventory.Presentation/obj/Debug/net5.0/Inventory.Presentation.csproj.CoreCompileInputs.cache
+C:/Hossein/Packages/Test (TDD&BDD)/examples/14-FinalProject/InventoryManagement/src/Inventory.Presentation/obj/Debug/net5.0/Inventory.Presentation.MvcApplicationPartsAssemblyInfo.cs
+C:/Hossein/Packages/Test (TDD&BDD)/examples/14-FinalProject/InventoryManagement/src/Inventory.Presentation/obj/Debug/net5.0/Inventory.Presentation.MvcApplicationPartsAssemblyInfo.cache
+C:/Hossein/Packages/Test (TDD&BDD)/examples/14-FinalProject/InventoryManagement/src/Inventory.Presentation/obj/Debug/net5.0/staticwebassets/Inventory.Presentation.StaticWebAssets.Manifest.cache
+C:/Hossein/Packages/Test (TDD&BDD)/examples/14-FinalProject/InventoryManagement/src/Inventory.Presentation/obj/Debug/net5.0/staticwebassets/Inventory.Presentation.StaticWebAssets.xml
+C:/Hossein/Packages/Test (TDD&BDD)/examples/14-FinalProject/InventoryManagement/src/Inventory.Presentation/obj/Debug/net5.0/scopedcss/bundle/Inventory.Presentation.styles.css
+C:/Hossein/Packages/Test (TDD&BDD)/examples/14-FinalProject/InventoryManagement/src/Inventory.Presentation/obj/Debug/net5.0/Inventory.Presentation.RazorTargetAssemblyInfo.cache
+C:/Hossein/Packages/Test (TDD&BDD)/examples/14-FinalProject/InventoryManagement/src/Inventory.Presentation/obj/Debug/net5.0/Inventory.Presentation.csproj.CopyComplete
+C:/Hossein/Packages/Test (TDD&BDD)/examples/14-FinalProject/InventoryManagement/src/Inventory.Presentation/obj/Debug/net5.0/Inventory.Presentation.dll
+C:/Hossein/Packages/Test (TDD&BDD)/examples/14-FinalProject/InventoryManagement/src/Inventory.Presentation/obj/Debug/net5.0/ref/Inventory.Presentation.dll
+C:/Hossein/Packages/Test (TDD&BDD)/examples/14-FinalProject/InventoryManagement/src/Inventory.Presentation/obj/Debug/net5.0/Inventory.Presentation.pdb
+C:/Hossein/Packages/Test (TDD&BDD)/examples/14-FinalProject/InventoryManagement/src/Inventory.Presentation/obj/Debug/net5.0/Inventory.Presentation.genruntimeconfig.cache
+/Users/hosein/Desktop/Packages/Test (TDD&BDD)/examples/14-FinalProject/InventoryManagement/src/Inventory.Presentation/bin/Debug/net5.0/appsettings.Development.json
+/Users/hosein/Desktop/Packages/Test (TDD&BDD)/examples/14-FinalProject/InventoryManagement/src/Inventory.Presentation/bin/Debug/net5.0/appsettings.json
+/Users/hosein/Desktop/Packages/Test (TDD&BDD)/examples/14-FinalProject/InventoryManagement/src/Inventory.Presentation/bin/Debug/net5.0/Inventory.Presentation.StaticWebAssets.xml
+/Users/hosein/Desktop/Packages/Test (TDD&BDD)/examples/14-FinalProject/InventoryManagement/src/Inventory.Presentation/bin/Debug/net5.0/Inventory.Presentation
+/Users/hosein/Desktop/Packages/Test (TDD&BDD)/examples/14-FinalProject/InventoryManagement/src/Inventory.Presentation/bin/Debug/net5.0/Inventory.Presentation.deps.json
+/Users/hosein/Desktop/Packages/Test (TDD&BDD)/examples/14-FinalProject/InventoryManagement/src/Inventory.Presentation/bin/Debug/net5.0/Inventory.Presentation.runtimeconfig.json
+/Users/hosein/Desktop/Packages/Test (TDD&BDD)/examples/14-FinalProject/InventoryManagement/src/Inventory.Presentation/bin/Debug/net5.0/Inventory.Presentation.runtimeconfig.dev.json
+/Users/hosein/Desktop/Packages/Test (TDD&BDD)/examples/14-FinalProject/InventoryManagement/src/Inventory.Presentation/bin/Debug/net5.0/Inventory.Presentation.dll
+/Users/hosein/Desktop/Packages/Test (TDD&BDD)/examples/14-FinalProject/InventoryManagement/src/Inventory.Presentation/bin/Debug/net5.0/Inventory.Presentation.pdb
+/Users/hosein/Desktop/Packages/Test (TDD&BDD)/examples/14-FinalProject/InventoryManagement/src/Inventory.Presentation/bin/Debug/net5.0/Humanizer.dll
+/Users/hosein/Desktop/Packages/Test (TDD&BDD)/examples/14-FinalProject/InventoryManagement/src/Inventory.Presentation/bin/Debug/net5.0/Microsoft.Data.SqlClient.dll
+/Users/hosein/Desktop/Packages/Test (TDD&BDD)/examples/14-FinalProject/InventoryManagement/src/Inventory.Presentation/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.dll
+/Users/hosein/Desktop/Packages/Test (TDD&BDD)/examples/14-FinalProject/InventoryManagement/src/Inventory.Presentation/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+/Users/hosein/Desktop/Packages/Test (TDD&BDD)/examples/14-FinalProject/InventoryManagement/src/Inventory.Presentation/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.Design.dll
+/Users/hosein/Desktop/Packages/Test (TDD&BDD)/examples/14-FinalProject/InventoryManagement/src/Inventory.Presentation/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.Relational.dll
+/Users/hosein/Desktop/Packages/Test (TDD&BDD)/examples/14-FinalProject/InventoryManagement/src/Inventory.Presentation/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.SqlServer.dll
+/Users/hosein/Desktop/Packages/Test (TDD&BDD)/examples/14-FinalProject/InventoryManagement/src/Inventory.Presentation/bin/Debug/net5.0/Microsoft.Extensions.DependencyInjection.dll
+/Users/hosein/Desktop/Packages/Test (TDD&BDD)/examples/14-FinalProject/InventoryManagement/src/Inventory.Presentation/bin/Debug/net5.0/Microsoft.Identity.Client.dll
+/Users/hosein/Desktop/Packages/Test (TDD&BDD)/examples/14-FinalProject/InventoryManagement/src/Inventory.Presentation/bin/Debug/net5.0/Microsoft.IdentityModel.JsonWebTokens.dll
+/Users/hosein/Desktop/Packages/Test (TDD&BDD)/examples/14-FinalProject/InventoryManagement/src/Inventory.Presentation/bin/Debug/net5.0/Microsoft.IdentityModel.Logging.dll
+/Users/hosein/Desktop/Packages/Test (TDD&BDD)/examples/14-FinalProject/InventoryManagement/src/Inventory.Presentation/bin/Debug/net5.0/Microsoft.IdentityModel.Protocols.dll
+/Users/hosein/Desktop/Packages/Test (TDD&BDD)/examples/14-FinalProject/InventoryManagement/src/Inventory.Presentation/bin/Debug/net5.0/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+/Users/hosein/Desktop/Packages/Test (TDD&BDD)/examples/14-FinalProject/InventoryManagement/src/Inventory.Presentation/bin/Debug/net5.0/Microsoft.IdentityModel.Tokens.dll
+/Users/hosein/Desktop/Packages/Test (TDD&BDD)/examples/14-FinalProject/InventoryManagement/src/Inventory.Presentation/bin/Debug/net5.0/Microsoft.OpenApi.dll
+/Users/hosein/Desktop/Packages/Test (TDD&BDD)/examples/14-FinalProject/InventoryManagement/src/Inventory.Presentation/bin/Debug/net5.0/Newtonsoft.Json.dll
+/Users/hosein/Desktop/Packages/Test (TDD&BDD)/examples/14-FinalProject/InventoryManagement/src/Inventory.Presentation/bin/Debug/net5.0/Swashbuckle.AspNetCore.Swagger.dll
+/Users/hosein/Desktop/Packages/Test (TDD&BDD)/examples/14-FinalProject/InventoryManagement/src/Inventory.Presentation/bin/Debug/net5.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+/Users/hosein/Desktop/Packages/Test (TDD&BDD)/examples/14-FinalProject/InventoryManagement/src/Inventory.Presentation/bin/Debug/net5.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+/Users/hosein/Desktop/Packages/Test (TDD&BDD)/examples/14-FinalProject/InventoryManagement/src/Inventory.Presentation/bin/Debug/net5.0/System.Configuration.ConfigurationManager.dll
+/Users/hosein/Desktop/Packages/Test (TDD&BDD)/examples/14-FinalProject/InventoryManagement/src/Inventory.Presentation/bin/Debug/net5.0/System.Diagnostics.DiagnosticSource.dll
+/Users/hosein/Desktop/Packages/Test (TDD&BDD)/examples/14-FinalProject/InventoryManagement/src/Inventory.Presentation/bin/Debug/net5.0/System.IdentityModel.Tokens.Jwt.dll
+/Users/hosein/Desktop/Packages/Test (TDD&BDD)/examples/14-FinalProject/InventoryManagement/src/Inventory.Presentation/bin/Debug/net5.0/System.Runtime.Caching.dll
+/Users/hosein/Desktop/Packages/Test (TDD&BDD)/examples/14-FinalProject/InventoryManagement/src/Inventory.Presentation/bin/Debug/net5.0/System.Security.Cryptography.ProtectedData.dll
+/Users/hosein/Desktop/Packages/Test (TDD&BDD)/examples/14-FinalProject/InventoryManagement/src/Inventory.Presentation/bin/Debug/net5.0/runtimes/unix/lib/netcoreapp3.1/Microsoft.Data.SqlClient.dll
+/Users/hosein/Desktop/Packages/Test (TDD&BDD)/examples/14-FinalProject/InventoryManagement/src/Inventory.Presentation/bin/Debug/net5.0/runtimes/win/lib/netcoreapp3.1/Microsoft.Data.SqlClient.dll
+/Users/hosein/Desktop/Packages/Test (TDD&BDD)/examples/14-FinalProject/InventoryManagement/src/Inventory.Presentation/bin/Debug/net5.0/runtimes/win-arm/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/hosein/Desktop/Packages/Test (TDD&BDD)/examples/14-FinalProject/InventoryManagement/src/Inventory.Presentation/bin/Debug/net5.0/runtimes/win-arm/native/Microsoft.Data.SqlClient.SNI.pdb
+/Users/hosein/Desktop/Packages/Test (TDD&BDD)/examples/14-FinalProject/InventoryManagement/src/Inventory.Presentation/bin/Debug/net5.0/runtimes/win-arm64/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/hosein/Desktop/Packages/Test (TDD&BDD)/examples/14-FinalProject/InventoryManagement/src/Inventory.Presentation/bin/Debug/net5.0/runtimes/win-arm64/native/Microsoft.Data.SqlClient.SNI.pdb
+/Users/hosein/Desktop/Packages/Test (TDD&BDD)/examples/14-FinalProject/InventoryManagement/src/Inventory.Presentation/bin/Debug/net5.0/runtimes/win-x64/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/hosein/Desktop/Packages/Test (TDD&BDD)/examples/14-FinalProject/InventoryManagement/src/Inventory.Presentation/bin/Debug/net5.0/runtimes/win-x64/native/Microsoft.Data.SqlClient.SNI.pdb
+/Users/hosein/Desktop/Packages/Test (TDD&BDD)/examples/14-FinalProject/InventoryManagement/src/Inventory.Presentation/bin/Debug/net5.0/runtimes/win-x86/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/hosein/Desktop/Packages/Test (TDD&BDD)/examples/14-FinalProject/InventoryManagement/src/Inventory.Presentation/bin/Debug/net5.0/runtimes/win-x86/native/Microsoft.Data.SqlClient.SNI.pdb
+/Users/hosein/Desktop/Packages/Test (TDD&BDD)/examples/14-FinalProject/InventoryManagement/src/Inventory.Presentation/bin/Debug/net5.0/runtimes/win/lib/netstandard2.0/System.Runtime.Caching.dll
+/Users/hosein/Desktop/Packages/Test (TDD&BDD)/examples/14-FinalProject/InventoryManagement/src/Inventory.Presentation/bin/Debug/net5.0/runtimes/win/lib/netstandard2.0/System.Security.Cryptography.ProtectedData.dll
+/Users/hosein/Desktop/Packages/Test (TDD&BDD)/examples/14-FinalProject/InventoryManagement/src/Inventory.Presentation/bin/Debug/net5.0/Inventory.Application.Contract.dll
+/Users/hosein/Desktop/Packages/Test (TDD&BDD)/examples/14-FinalProject/InventoryManagement/src/Inventory.Presentation/bin/Debug/net5.0/Inventory.Application.dll
+/Users/hosein/Desktop/Packages/Test (TDD&BDD)/examples/14-FinalProject/InventoryManagement/src/Inventory.Presentation/bin/Debug/net5.0/Inventory.Domain.dll
+/Users/hosein/Desktop/Packages/Test (TDD&BDD)/examples/14-FinalProject/InventoryManagement/src/Inventory.Presentation/bin/Debug/net5.0/Inventory.Infrastructure.dll
+/Users/hosein/Desktop/Packages/Test (TDD&BDD)/examples/14-FinalProject/InventoryManagement/src/Inventory.Presentation/bin/Debug/net5.0/Inventory.Application.pdb
+/Users/hosein/Desktop/Packages/Test (TDD&BDD)/examples/14-FinalProject/InventoryManagement/src/Inventory.Presentation/bin/Debug/net5.0/Inventory.Infrastructure.pdb
+/Users/hosein/Desktop/Packages/Test (TDD&BDD)/examples/14-FinalProject/InventoryManagement/src/Inventory.Presentation/bin/Debug/net5.0/Inventory.Application.Contract.pdb
+/Users/hosein/Desktop/Packages/Test (TDD&BDD)/examples/14-FinalProject/InventoryManagement/src/Inventory.Presentation/bin/Debug/net5.0/Inventory.Domain.pdb
+/Users/hosein/Desktop/Packages/Test (TDD&BDD)/examples/14-FinalProject/InventoryManagement/src/Inventory.Presentation/obj/Debug/net5.0/Inventory.Presentation.csproj.AssemblyReference.cache
+/Users/hosein/Desktop/Packages/Test (TDD&BDD)/examples/14-FinalProject/InventoryManagement/src/Inventory.Presentation/obj/Debug/net5.0/Inventory.Presentation.GeneratedMSBuildEditorConfig.editorconfig
+/Users/hosein/Desktop/Packages/Test (TDD&BDD)/examples/14-FinalProject/InventoryManagement/src/Inventory.Presentation/obj/Debug/net5.0/Inventory.Presentation.AssemblyInfoInputs.cache
+/Users/hosein/Desktop/Packages/Test (TDD&BDD)/examples/14-FinalProject/InventoryManagement/src/Inventory.Presentation/obj/Debug/net5.0/Inventory.Presentation.AssemblyInfo.cs
+/Users/hosein/Desktop/Packages/Test (TDD&BDD)/examples/14-FinalProject/InventoryManagement/src/Inventory.Presentation/obj/Debug/net5.0/Inventory.Presentation.csproj.CoreCompileInputs.cache
+/Users/hosein/Desktop/Packages/Test (TDD&BDD)/examples/14-FinalProject/InventoryManagement/src/Inventory.Presentation/obj/Debug/net5.0/Inventory.Presentation.MvcApplicationPartsAssemblyInfo.cs
+/Users/hosein/Desktop/Packages/Test (TDD&BDD)/examples/14-FinalProject/InventoryManagement/src/Inventory.Presentation/obj/Debug/net5.0/Inventory.Presentation.MvcApplicationPartsAssemblyInfo.cache
+/Users/hosein/Desktop/Packages/Test (TDD&BDD)/examples/14-FinalProject/InventoryManagement/src/Inventory.Presentation/obj/Debug/net5.0/scopedcss/bundle/Inventory.Presentation.styles.css
+/Users/hosein/Desktop/Packages/Test (TDD&BDD)/examples/14-FinalProject/InventoryManagement/src/Inventory.Presentation/obj/Debug/net5.0/staticwebassets/Inventory.Presentation.StaticWebAssets.Manifest.cache
+/Users/hosein/Desktop/Packages/Test (TDD&BDD)/examples/14-FinalProject/InventoryManagement/src/Inventory.Presentation/obj/Debug/net5.0/staticwebassets/Inventory.Presentation.StaticWebAssets.Pack.cache
+/Users/hosein/Desktop/Packages/Test (TDD&BDD)/examples/14-FinalProject/InventoryManagement/src/Inventory.Presentation/obj/Debug/net5.0/staticwebassets/msbuild.Inventory.Presentation.Microsoft.AspNetCore.StaticWebAssets.props
+/Users/hosein/Desktop/Packages/Test (TDD&BDD)/examples/14-FinalProject/InventoryManagement/src/Inventory.Presentation/obj/Debug/net5.0/staticwebassets/msbuild.build.Inventory.Presentation.props
+/Users/hosein/Desktop/Packages/Test (TDD&BDD)/examples/14-FinalProject/InventoryManagement/src/Inventory.Presentation/obj/Debug/net5.0/staticwebassets/msbuild.buildMultiTargeting.Inventory.Presentation.props
+/Users/hosein/Desktop/Packages/Test (TDD&BDD)/examples/14-FinalProject/InventoryManagement/src/Inventory.Presentation/obj/Debug/net5.0/staticwebassets/msbuild.buildTransitive.Inventory.Presentation.props
+/Users/hosein/Desktop/Packages/Test (TDD&BDD)/examples/14-FinalProject/InventoryManagement/src/Inventory.Presentation/obj/Debug/net5.0/Inventory.Presentation.RazorTargetAssemblyInfo.cache
+/Users/hosein/Desktop/Packages/Test (TDD&BDD)/examples/14-FinalProject/InventoryManagement/src/Inventory.Presentation/obj/Debug/net5.0/Inventory.Presentation.csproj.CopyComplete
+/Users/hosein/Desktop/Packages/Test (TDD&BDD)/examples/14-FinalProject/InventoryManagement/src/Inventory.Presentation/obj/Debug/net5.0/Inventory.Presentation.dll
+/Users/hosein/Desktop/Packages/Test (TDD&BDD)/examples/14-FinalProject/InventoryManagement/src/Inventory.Presentation/obj/Debug/net5.0/refint/Inventory.Presentation.dll
+/Users/hosein/Desktop/Packages/Test (TDD&BDD)/examples/14-FinalProject/InventoryManagement/src/Inventory.Presentation/obj/Debug/net5.0/Inventory.Presentation.pdb
+/Users/hosein/Desktop/Packages/Test (TDD&BDD)/examples/14-FinalProject/InventoryManagement/src/Inventory.Presentation/obj/Debug/net5.0/Inventory.Presentation.genruntimeconfig.cache
+/Users/hosein/Desktop/Packages/Test (TDD&BDD)/examples/14-FinalProject/InventoryManagement/src/Inventory.Presentation/obj/Debug/net5.0/ref/Inventory.Presentation.dll
+/Users/hosein/Desktop/Projects/TddFinalProject/src/Inventory.Presentation/bin/Debug/net5.0/appsettings.Development.json
+/Users/hosein/Desktop/Projects/TddFinalProject/src/Inventory.Presentation/bin/Debug/net5.0/appsettings.json
+/Users/hosein/Desktop/Projects/TddFinalProject/src/Inventory.Presentation/bin/Debug/net5.0/Inventory.Presentation.StaticWebAssets.xml
+/Users/hosein/Desktop/Projects/TddFinalProject/src/Inventory.Presentation/bin/Debug/net5.0/Inventory.Presentation
+/Users/hosein/Desktop/Projects/TddFinalProject/src/Inventory.Presentation/bin/Debug/net5.0/Inventory.Presentation.deps.json
+/Users/hosein/Desktop/Projects/TddFinalProject/src/Inventory.Presentation/bin/Debug/net5.0/Inventory.Presentation.runtimeconfig.json
+/Users/hosein/Desktop/Projects/TddFinalProject/src/Inventory.Presentation/bin/Debug/net5.0/Inventory.Presentation.runtimeconfig.dev.json
+/Users/hosein/Desktop/Projects/TddFinalProject/src/Inventory.Presentation/bin/Debug/net5.0/Inventory.Presentation.dll
+/Users/hosein/Desktop/Projects/TddFinalProject/src/Inventory.Presentation/bin/Debug/net5.0/Inventory.Presentation.pdb
+/Users/hosein/Desktop/Projects/TddFinalProject/src/Inventory.Presentation/bin/Debug/net5.0/Humanizer.dll
+/Users/hosein/Desktop/Projects/TddFinalProject/src/Inventory.Presentation/bin/Debug/net5.0/Microsoft.Data.SqlClient.dll
+/Users/hosein/Desktop/Projects/TddFinalProject/src/Inventory.Presentation/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.dll
+/Users/hosein/Desktop/Projects/TddFinalProject/src/Inventory.Presentation/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+/Users/hosein/Desktop/Projects/TddFinalProject/src/Inventory.Presentation/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.Design.dll
+/Users/hosein/Desktop/Projects/TddFinalProject/src/Inventory.Presentation/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.Relational.dll
+/Users/hosein/Desktop/Projects/TddFinalProject/src/Inventory.Presentation/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.SqlServer.dll
+/Users/hosein/Desktop/Projects/TddFinalProject/src/Inventory.Presentation/bin/Debug/net5.0/Microsoft.Extensions.DependencyInjection.dll
+/Users/hosein/Desktop/Projects/TddFinalProject/src/Inventory.Presentation/bin/Debug/net5.0/Microsoft.Identity.Client.dll
+/Users/hosein/Desktop/Projects/TddFinalProject/src/Inventory.Presentation/bin/Debug/net5.0/Microsoft.IdentityModel.JsonWebTokens.dll
+/Users/hosein/Desktop/Projects/TddFinalProject/src/Inventory.Presentation/bin/Debug/net5.0/Microsoft.IdentityModel.Logging.dll
+/Users/hosein/Desktop/Projects/TddFinalProject/src/Inventory.Presentation/bin/Debug/net5.0/Microsoft.IdentityModel.Protocols.dll
+/Users/hosein/Desktop/Projects/TddFinalProject/src/Inventory.Presentation/bin/Debug/net5.0/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+/Users/hosein/Desktop/Projects/TddFinalProject/src/Inventory.Presentation/bin/Debug/net5.0/Microsoft.IdentityModel.Tokens.dll
+/Users/hosein/Desktop/Projects/TddFinalProject/src/Inventory.Presentation/bin/Debug/net5.0/Microsoft.OpenApi.dll
+/Users/hosein/Desktop/Projects/TddFinalProject/src/Inventory.Presentation/bin/Debug/net5.0/Newtonsoft.Json.dll
+/Users/hosein/Desktop/Projects/TddFinalProject/src/Inventory.Presentation/bin/Debug/net5.0/Swashbuckle.AspNetCore.Swagger.dll
+/Users/hosein/Desktop/Projects/TddFinalProject/src/Inventory.Presentation/bin/Debug/net5.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+/Users/hosein/Desktop/Projects/TddFinalProject/src/Inventory.Presentation/bin/Debug/net5.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+/Users/hosein/Desktop/Projects/TddFinalProject/src/Inventory.Presentation/bin/Debug/net5.0/System.Configuration.ConfigurationManager.dll
+/Users/hosein/Desktop/Projects/TddFinalProject/src/Inventory.Presentation/bin/Debug/net5.0/System.Diagnostics.DiagnosticSource.dll
+/Users/hosein/Desktop/Projects/TddFinalProject/src/Inventory.Presentation/bin/Debug/net5.0/System.IdentityModel.Tokens.Jwt.dll
+/Users/hosein/Desktop/Projects/TddFinalProject/src/Inventory.Presentation/bin/Debug/net5.0/System.Runtime.Caching.dll
+/Users/hosein/Desktop/Projects/TddFinalProject/src/Inventory.Presentation/bin/Debug/net5.0/System.Security.Cryptography.ProtectedData.dll
+/Users/hosein/Desktop/Projects/TddFinalProject/src/Inventory.Presentation/bin/Debug/net5.0/runtimes/unix/lib/netcoreapp3.1/Microsoft.Data.SqlClient.dll
+/Users/hosein/Desktop/Projects/TddFinalProject/src/Inventory.Presentation/bin/Debug/net5.0/runtimes/win/lib/netcoreapp3.1/Microsoft.Data.SqlClient.dll
+/Users/hosein/Desktop/Projects/TddFinalProject/src/Inventory.Presentation/bin/Debug/net5.0/runtimes/win-arm/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/hosein/Desktop/Projects/TddFinalProject/src/Inventory.Presentation/bin/Debug/net5.0/runtimes/win-arm/native/Microsoft.Data.SqlClient.SNI.pdb
+/Users/hosein/Desktop/Projects/TddFinalProject/src/Inventory.Presentation/bin/Debug/net5.0/runtimes/win-arm64/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/hosein/Desktop/Projects/TddFinalProject/src/Inventory.Presentation/bin/Debug/net5.0/runtimes/win-arm64/native/Microsoft.Data.SqlClient.SNI.pdb
+/Users/hosein/Desktop/Projects/TddFinalProject/src/Inventory.Presentation/bin/Debug/net5.0/runtimes/win-x64/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/hosein/Desktop/Projects/TddFinalProject/src/Inventory.Presentation/bin/Debug/net5.0/runtimes/win-x64/native/Microsoft.Data.SqlClient.SNI.pdb
+/Users/hosein/Desktop/Projects/TddFinalProject/src/Inventory.Presentation/bin/Debug/net5.0/runtimes/win-x86/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/hosein/Desktop/Projects/TddFinalProject/src/Inventory.Presentation/bin/Debug/net5.0/runtimes/win-x86/native/Microsoft.Data.SqlClient.SNI.pdb
+/Users/hosein/Desktop/Projects/TddFinalProject/src/Inventory.Presentation/bin/Debug/net5.0/runtimes/win/lib/netstandard2.0/System.Runtime.Caching.dll
+/Users/hosein/Desktop/Projects/TddFinalProject/src/Inventory.Presentation/bin/Debug/net5.0/runtimes/win/lib/netstandard2.0/System.Security.Cryptography.ProtectedData.dll
+/Users/hosein/Desktop/Projects/TddFinalProject/src/Inventory.Presentation/bin/Debug/net5.0/Inventory.Application.Contract.dll
+/Users/hosein/Desktop/Projects/TddFinalProject/src/Inventory.Presentation/bin/Debug/net5.0/Inventory.Application.dll
+/Users/hosein/Desktop/Projects/TddFinalProject/src/Inventory.Presentation/bin/Debug/net5.0/Inventory.Domain.dll
+/Users/hosein/Desktop/Projects/TddFinalProject/src/Inventory.Presentation/bin/Debug/net5.0/Inventory.Infrastructure.dll
+/Users/hosein/Desktop/Projects/TddFinalProject/src/Inventory.Presentation/bin/Debug/net5.0/Inventory.Application.pdb
+/Users/hosein/Desktop/Projects/TddFinalProject/src/Inventory.Presentation/bin/Debug/net5.0/Inventory.Infrastructure.pdb
+/Users/hosein/Desktop/Projects/TddFinalProject/src/Inventory.Presentation/bin/Debug/net5.0/Inventory.Application.Contract.pdb
+/Users/hosein/Desktop/Projects/TddFinalProject/src/Inventory.Presentation/bin/Debug/net5.0/Inventory.Domain.pdb
+/Users/hosein/Desktop/Projects/TddFinalProject/src/Inventory.Presentation/obj/Debug/net5.0/Inventory.Presentation.csproj.AssemblyReference.cache
+/Users/hosein/Desktop/Projects/TddFinalProject/src/Inventory.Presentation/obj/Debug/net5.0/Inventory.Presentation.GeneratedMSBuildEditorConfig.editorconfig
+/Users/hosein/Desktop/Projects/TddFinalProject/src/Inventory.Presentation/obj/Debug/net5.0/Inventory.Presentation.AssemblyInfoInputs.cache
+/Users/hosein/Desktop/Projects/TddFinalProject/src/Inventory.Presentation/obj/Debug/net5.0/Inventory.Presentation.AssemblyInfo.cs
+/Users/hosein/Desktop/Projects/TddFinalProject/src/Inventory.Presentation/obj/Debug/net5.0/Inventory.Presentation.csproj.CoreCompileInputs.cache
+/Users/hosein/Desktop/Projects/TddFinalProject/src/Inventory.Presentation/obj/Debug/net5.0/Inventory.Presentation.MvcApplicationPartsAssemblyInfo.cs
+/Users/hosein/Desktop/Projects/TddFinalProject/src/Inventory.Presentation/obj/Debug/net5.0/Inventory.Presentation.MvcApplicationPartsAssemblyInfo.cache
+/Users/hosein/Desktop/Projects/TddFinalProject/src/Inventory.Presentation/obj/Debug/net5.0/scopedcss/bundle/Inventory.Presentation.styles.css
+/Users/hosein/Desktop/Projects/TddFinalProject/src/Inventory.Presentation/obj/Debug/net5.0/staticwebassets/Inventory.Presentation.StaticWebAssets.Manifest.cache
+/Users/hosein/Desktop/Projects/TddFinalProject/src/Inventory.Presentation/obj/Debug/net5.0/staticwebassets/Inventory.Presentation.StaticWebAssets.Pack.cache
+/Users/hosein/Desktop/Projects/TddFinalProject/src/Inventory.Presentation/obj/Debug/net5.0/staticwebassets/msbuild.Inventory.Presentation.Microsoft.AspNetCore.StaticWebAssets.props
+/Users/hosein/Desktop/Projects/TddFinalProject/src/Inventory.Presentation/obj/Debug/net5.0/staticwebassets/msbuild.build.Inventory.Presentation.props
+/Users/hosein/Desktop/Projects/TddFinalProject/src/Inventory.Presentation/obj/Debug/net5.0/staticwebassets/msbuild.buildMultiTargeting.Inventory.Presentation.props
+/Users/hosein/Desktop/Projects/TddFinalProject/src/Inventory.Presentation/obj/Debug/net5.0/staticwebassets/msbuild.buildTransitive.Inventory.Presentation.props
+/Users/hosein/Desktop/Projects/TddFinalProject/src/Inventory.Presentation/obj/Debug/net5.0/Inventory.Presentation.RazorTargetAssemblyInfo.cache
+/Users/hosein/Desktop/Projects/TddFinalProject/src/Inventory.Presentation/obj/Debug/net5.0/Inventory.Presentation.csproj.CopyComplete
+/Users/hosein/Desktop/Projects/TddFinalProject/src/Inventory.Presentation/obj/Debug/net5.0/Inventory.Presentation.dll
+/Users/hosein/Desktop/Projects/TddFinalProject/src/Inventory.Presentation/obj/Debug/net5.0/refint/Inventory.Presentation.dll
+/Users/hosein/Desktop/Projects/TddFinalProject/src/Inventory.Presentation/obj/Debug/net5.0/Inventory.Presentation.pdb
+/Users/hosein/Desktop/Projects/TddFinalProject/src/Inventory.Presentation/obj/Debug/net5.0/Inventory.Presentation.genruntimeconfig.cache
+/Users/hosein/Desktop/Projects/TddFinalProject/src/Inventory.Presentation/obj/Debug/net5.0/ref/Inventory.Presentation.dll

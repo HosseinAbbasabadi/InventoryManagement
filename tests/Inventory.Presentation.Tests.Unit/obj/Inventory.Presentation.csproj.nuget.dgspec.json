@@ -1,0 +1,156 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Hossein\\Packages\\Test (TDD&BDD)\\examples\\14-FinalProject\\InventoryManagement\\tests\\inventory.Presentation\\Inventory.Presentation.csproj": {}
+  },
+  "projects": {
+    "C:\\Hossein\\Packages\\Test (TDD&BDD)\\examples\\14-FinalProject\\InventoryManagement\\src\\InventoryApplication.Contract\\Inventory.Application.Contract.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Hossein\\Packages\\Test (TDD&BDD)\\examples\\14-FinalProject\\InventoryManagement\\src\\InventoryApplication.Contract\\Inventory.Application.Contract.csproj",
+        "projectName": "Inventory.Application.Contract",
+        "projectPath": "C:\\Hossein\\Packages\\Test (TDD&BDD)\\examples\\14-FinalProject\\InventoryManagement\\src\\InventoryApplication.Contract\\Inventory.Application.Contract.csproj",
+        "packagesPath": "C:\\Users\\Atria\\.nuget\\packages\\",
+        "outputPath": "C:\\Hossein\\Packages\\Test (TDD&BDD)\\examples\\14-FinalProject\\InventoryManagement\\src\\InventoryApplication.Contract\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Atria\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.102\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Hossein\\Packages\\Test (TDD&BDD)\\examples\\14-FinalProject\\InventoryManagement\\tests\\inventory.Presentation\\Inventory.Presentation.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Hossein\\Packages\\Test (TDD&BDD)\\examples\\14-FinalProject\\InventoryManagement\\tests\\inventory.Presentation\\Inventory.Presentation.csproj",
+        "projectName": "Inventory.Presentation",
+        "projectPath": "C:\\Hossein\\Packages\\Test (TDD&BDD)\\examples\\14-FinalProject\\InventoryManagement\\tests\\inventory.Presentation\\Inventory.Presentation.csproj",
+        "packagesPath": "C:\\Users\\Atria\\.nuget\\packages\\",
+        "outputPath": "C:\\Hossein\\Packages\\Test (TDD&BDD)\\examples\\14-FinalProject\\InventoryManagement\\tests\\inventory.Presentation\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Atria\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "C:\\Hossein\\Packages\\Test (TDD&BDD)\\examples\\14-FinalProject\\InventoryManagement\\src\\InventoryApplication.Contract\\Inventory.Application.Contract.csproj": {
+                "projectPath": "C:\\Hossein\\Packages\\Test (TDD&BDD)\\examples\\14-FinalProject\\InventoryManagement\\src\\InventoryApplication.Contract\\Inventory.Application.Contract.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[16.7.1, )"
+            },
+            "coverlet.collector": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[1.3.0, )"
+            },
+            "fluentassertions": {
+              "target": "Package",
+              "version": "[5.10.3, )"
+            },
+            "nsubstitute": {
+              "target": "Package",
+              "version": "[4.2.2, )"
+            },
+            "xunit": {
+              "target": "Package",
+              "version": "[2.4.1, )"
+            },
+            "xunit.runner.visualstudio": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.4.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.102\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
